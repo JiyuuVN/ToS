@@ -4,19 +4,19 @@ UI_20150317_000003	{@st59}Close the Attribute List {/}
 UI_20150317_000004	{@st43}Learn Attributes{/}
 UI_20150317_000005	{@st59}Close Attributes window{/}
 UI_20150317_000006	{@st41b}Funds{/}
-UI_20150317_000007	My Achievements
+UI_20150317_000007	Мои достижения
 UI_20150317_000008	Server Ranking
 UI_20150317_000009	{@st59}An unexpected event is available.{/}
 UI_20150317_000010	{@st59}There is a new Help message{/}
-UI_20150317_000011	{@st41}Are you sure you want to craft this type of arrow?{/}
+UI_20150317_000011	{@st41}Уверены что хотите сделать этот тип стрел?{/}
 UI_20150317_000012	{@st41b}Once{/}
-UI_20150317_000013	{@st41b}All{/}
-UI_20150317_000014	{@st41b}Pause{/}
-UI_20150317_000015	{@st43}Adventure Journal{/}
-UI_20150317_000016	{@st43}Auction House{/}
-UI_20150317_000017	{@st59}Close the Auction House{/}
-UI_20150317_000019	{@st43}{s22}Item Auction{/}
-UI_20150317_000020	{@st59}Close Quest Information{/}
+UI_20150317_000013	{@st41b}Все{/}
+UI_20150317_000014	{@st41b}Пауза{/}
+UI_20150317_000015	{@st43}Дневник приключений{/}
+UI_20150317_000016	{@st43}Аукцион{/}
+UI_20150317_000017	{@st59}Закрыть аукцион{/}
+UI_20150317_000019	{@st43}{s22}Аукцион предметов{/}
+UI_20150317_000020	{@st59}Закрыть информацию о квестах{/}
 UI_20150317_000021	Availest
 UI_20150317_000022	{@st41b}Remaining Time
 UI_20150317_000023	3 hours 16 minutes
@@ -79,18 +79,18 @@ UI_20150317_000082	Displays a brief description of the class.
 UI_20150317_000086	{@st59}Close the Class Information window{/}
 UI_20150317_000087	Advancement Alarm
 UI_20150317_000088	{@st43} Advancement
-UI_20150317_000089	{@sti7}{s14} Character {/}
-UI_20150317_000090	{@sti8}{s14} Class {/}
-UI_20150317_000091	{@st44}Chat{/}
+UI_20150317_000089	{@sti7}{s14} Персонаж {/}
+UI_20150317_000090	{@sti8}{s14} Класс {/}
+UI_20150317_000091	{@st44}Чат{/}
 UI_20150317_000092	To. WWWWWWWW and 1 other
-UI_20150317_000094	{@st41}All Chat{/}
-UI_20150317_000095	{@59}Quit{/}
-UI_20150317_000096	{@59}Invite{/}
-UI_20150317_000097	{@st59}All{/}
-UI_20150317_000098	{@st59}Normal (/s chat){/}
-UI_20150317_000099	{@st59}Shout (/y chat){/}
-UI_20150317_000100	{@st59}Party (/p chat){/}
-UI_20150317_000101	{@st59}Whisper (/w team name chat){/}
+UI_20150317_000094	{@st41}Все чаты{/}
+UI_20150317_000095	{@59}Выйти{/}
+UI_20150317_000096	{@59}Пригласить{/}
+UI_20150317_000097	{@st59}Все{/}
+UI_20150317_000098	{@st59}Обычный (/s){/}
+UI_20150317_000099	{@st59}Крик (/y){/}
+UI_20150317_000100	{@st59}Группа (/p){/}
+UI_20150317_000101	{@st59}Шёпот (/w имя команды){/}
 UI_20150317_000102	{@st59}Adjust Chat Window{/}
 UI_20150317_000103	{@st43}{s22}Chat Macro{/}
 UI_20150317_000104	{@st43}Macro{/}
@@ -143,7 +143,7 @@ UI_20150317_000157	Круг {#ffff00}%s{/} %s Ур. {#ffff00}%s{/}
 UI_20150317_000158	Warrior
 UI_20150317_000160	Adventure Index {#ffff00}%s{/} ({#ffff00}Unranked{/})
 UI_20150317_000161	Total Achievements : {#ffff00}%s{/}
-UI_20150317_000162	Settings
+UI_20150317_000162	Настройки
 UI_20150317_000163	Clear the tab title to delete the tab.
 UI_20150317_000164	{@st49}All{/}
 UI_20150317_000165	{@st49}System{/}
@@ -401,7 +401,7 @@ UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Click on the "Create 
 UI_20150317_000438	{@st43}Party Information{/}
 UI_20150317_000439	{@st41b}Members{/}
 UI_20150317_000440	{@st41b}Party Event {/}
-UI_20150317_000441	{@st41b}Settings{/}
+UI_20150317_000441	{@st41b}Настройки{/}
 UI_20150317_000458	{@st41b}Create Party
 UI_20150317_000459	{@st43}Public Party List {/}
 UI_20150317_000460	{@st59b}Public Party List{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}
@@ -448,45 +448,45 @@ UI_20150317_000512	{@st41b} Purchase
 UI_20150317_000514	{@st43}Magnum Opus{/}
 UI_20150317_000515	{@st41}Delete All
 UI_20150317_000517	{@st41}Combine
-UI_20150317_000518	{@st43}Quest{/}
-UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
-UI_20150317_000520	{@st41b}In Progress{/}
-UI_20150317_000521	{@st41b}Abandon{/}
-UI_20150317_000522	{@st43}{s22}Quest Information{/}
-UI_20150317_000523	Mission Complete
-UI_20150317_000524	{@st41}Complete{/}
-UI_20150317_000525	Mission Progress Info
-UI_20150317_000526	{s18}{ol}Quest Information
-UI_20150317_000527	{s16}Time Left
-UI_20150317_000528	Use quest item
-UI_20150317_000529	Quest Hint
-UI_20150317_000530	{@st41}Confirm{/}
-UI_20150317_000531	{@st43}{s22}Quest Completed{/}
+UI_20150317_000518	{@st43}Квест{/}
+UI_20150317_000519	{@st59b}Квесты{nl}{@st59s} - При получении нового квеста он будет добавлен в этот список. {nl} - У основных квестов фон жёлтый, у побочных — синий. {nl} - Стрелка у ног персонажа указывает на расположение квеста. {nl} - Если квест выполнен, то в списке появится кнопка "Вернуться". {nl}    (Телепортирует вас к NPC который выдал квест. Можно активировать мышью или нажав на Backspace) {nl} - Добавляйте или убирайте квесты из трекера, нажимая на галочку рядом с именем. {/}
+UI_20150317_000520	{@st41b}Текущие{/}
+UI_20150317_000521	{@st41b}Заброшенные{/}
+UI_20150317_000522	{@st43}{s22}Информация о квесте{/}
+UI_20150317_000523	Миссия завершена
+UI_20150317_000524	{@st41}Завершено{/}
+UI_20150317_000525	Прогресс миссии
+UI_20150317_000526	{s18}{ol}Информация о квесте
+UI_20150317_000527	{s16}Осталось
+UI_20150317_000528	Использовать квестовый предмет
+UI_20150317_000529	Подсказка
+UI_20150317_000530	{@st41}Подтвердить{/}
+UI_20150317_000531	{@st43}{s22}Квест завершён{/}
 UI_20150317_000532	{@st41b}Complete{/}
-UI_20150317_000533	{@st41}Accept{/}
-UI_20150317_000534	{@st41}Decline{/}
-UI_20150317_000535	{@st44}Go Back{/}
-UI_20150317_000536	Which quest would you like to go back to?
-UI_20150317_000538	{@st59}Expand slot {/}
-UI_20150317_000539	{@st59}Reduce slot{/}
-UI_20150317_000541	{@st44}Menu{/}
-UI_20150317_000542	{@st60}Character Selection{/}
-UI_20150317_000543	{@st60}Logout{/}
-UI_20150317_000544	{@st60}Exit Game{/}
-UI_20150317_000545	{@st60}Game Settings{/}
-UI_20150317_000546	{@st60}Go Back{/}
-UI_20150317_000547	{@st41}Skip Tutorial{/}
-UI_20150317_000548	{@st41}Character Selection{/}
-UI_20150317_000549	{@st41}Logout{/}
-UI_20150317_000550	{@st41}Exit game{/}
-UI_20150317_000551	{@st41}Go Back{/}
-UI_20150317_000552	{@st43}{s22}Gather Raid!
-UI_20150317_000553	{@st41b}Monsters are approaching the outskirts of the town castle. Only you can solve this problem.
-UI_20150317_000554	{@st43}{s22}Game Settings{/}
-UI_20150317_000555	{@sti7}Searching parties for raid...{/}
-UI_20150317_000556	{@st41b}Cancel participation
-UI_20150317_000557	{@st41b}I'll try to solve it!
-UI_20150317_000558	{@st41b}I don't think I can help this time...
+UI_20150317_000533	{@st41}Принять{/}
+UI_20150317_000534	{@st41}Отказаться{/}
+UI_20150317_000535	{@st44}Вернуться{/}
+UI_20150317_000536	К какому квесту вы хотели бы вернуться?
+UI_20150317_000538	{@st59}Расширить слот{/}
+UI_20150317_000539	{@st59}Уменьшить слот{/}
+UI_20150317_000541	{@st44}Меню{/}
+UI_20150317_000542	{@st60}Выбор персонажа{/}
+UI_20150317_000543	{@st60}Выйти{/}
+UI_20150317_000544	{@st60}Закрыть игру{/}
+UI_20150317_000545	{@st60}Настройки{/}
+UI_20150317_000546	{@st60}Вернуться{/}
+UI_20150317_000547	{@st41}Пропустить обучение{/}
+UI_20150317_000548	{@st41}Выбор персонажа{/}
+UI_20150317_000549	{@st41}Выйти{/}
+UI_20150317_000550	{@st41}Закрыть игру{/}
+UI_20150317_000551	{@st41}Вернуться{/}
+UI_20150317_000552	{@st43}{s22}Собрать рейд!
+UI_20150317_000553	{@st41b}Монстры собираются на задворках замка. Только ты можешь решить эту проблему.
+UI_20150317_000554	{@st43}{s22}Настройки{/}
+UI_20150317_000555	{@sti7}Ищем рейдовые группы...{/}
+UI_20150317_000556	{@st41b}Отказаться от участия
+UI_20150317_000557	{@st41b}Я попробую!
+UI_20150317_000558	{@st41b}Не в этот раз...
 UI_20150317_000559	{@sti7}{s24}Select Raid Rewards{/}
 UI_20150317_000560	{@st42b}Remaining time {@st43}%s{@st42b} seconds{/}
 UI_20150317_000561	{@st41b}Increase the number of selections
@@ -618,33 +618,33 @@ UI_20150317_000704	{s20}{#050505}Describe whatever
 UI_20150317_000705	{@st41} All {/}
 UI_20150317_000706	{@st41} Party {/}
 UI_20150317_000707	{@st41} Monster {/}
-UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : By leveling up, you can earn status points that you can use to enhance the 5 statuses to become more powerful. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}
-UI_20150317_000710	{@st41b}Info{/}
-UI_20150317_000712	Show Class
-UI_20150317_000713	Show Character Name
-UI_20150317_000714	{@st59}Change Character Name{/}
-UI_20150317_000716	{@st59}Apply{/}
-UI_20150317_000717	{@st41b}Cancel
+UI_20150317_000709	{@st59b}Обо мне{nl}{@st59s}- Характеристики : Повышая уровень, можно заработать очки характеристик, которые можно потратить на улучшение 5 базовых характеристик. {nl}- Информация : Эта информация основана на ваших текущих характеристиках и экипировке. {nl}- Титул : Титулы являются наградами за достижения. {nl} {/}
+UI_20150317_000710	{@st41b}Информация{/}
+UI_20150317_000712	Показать класс
+UI_20150317_000713	Показать имя персонажа
+UI_20150317_000714	{@st59}Изменить имя персонажа{/}
+UI_20150317_000716	{@st59}Применить{/}
+UI_20150317_000717	{@st41b}Отменить
 UI_20150317_000719	PC Name
 UI_20150317_000720	{@st41_yellow}Уровень: {@st41}%s{/}
 UI_20150317_000722	{@st43}Attack Effects{/}
 UI_20150317_000723	{@st43}Defense Effects{/}
 UI_20150317_000724	{@st43}Stat{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
-UI_20150317_000726	{@st59}Character Information (F1){/}
-UI_20150317_000727	{@st59}Inventory (F2){/}
-UI_20150317_000728	{@st59}Classes & Skills (F3){/}
-UI_20150317_000729	{@st59}Adventure Journal (F4){/}
-UI_20150317_000730	{@st59}Quest (F5){/}
-UI_20150317_000731	{@st59}Party (F6){/}
-UI_20150317_000732	{@st59}Friend (F7){/}
-UI_20150317_000733	{@st59}Macro (F8) {/}
-UI_20150317_000734	{@st59}Companion (F9) {/}
-UI_20150317_000735	{@st59}Help (F10) {/}
-UI_20150317_000736	{@st59}System Menu (Esc){/}
-UI_20150317_000737	{@st59}Necronomicon{/}
-UI_20150317_000738	Help(F1)
-UI_20150317_000739	Contents
+UI_20150317_000726	{@st59}Информация о персонаже (F1){/}
+UI_20150317_000727	{@st59}Инвентарь (F2){/}
+UI_20150317_000728	{@st59}Классы и навыки (F3){/}
+UI_20150317_000729	{@st59}Дневник приключений (F4){/}
+UI_20150317_000730	{@st59}Квест (F5){/}
+UI_20150317_000731	{@st59}Групп (F6){/}
+UI_20150317_000732	{@st59}Друзья (F7){/}
+UI_20150317_000733	{@st59}Макрос (F8) {/}
+UI_20150317_000734	{@st59}Соратник (F9) {/}
+UI_20150317_000735	{@st59}Помощь (F10) {/}
+UI_20150317_000736	{@st59}Системное меню (Esc){/}
+UI_20150317_000737	{@st59}Некрономикон{/}
+UI_20150317_000738	Помощь(F1)
+UI_20150317_000739	Оглавление
 UI_20150317_000740	View Details
 UI_20150317_000741	{@st43}Game Settings{/}
 UI_20150317_000742	{@st43}Game{/}
@@ -817,7 +817,7 @@ UI_20150317_000942	{@st59}Save{/}
 UI_20150317_000943	{@st44}Edit UI properties{/}
 UI_20150317_000944	{@St59}Character Selection{/}
 UI_20150317_000945	{@St59}Logout{/}
-UI_20150317_000946	{@St59}Settings{/}
+UI_20150317_000946	{@St59}Настройки{/}
 UI_20150317_000947	{@St59}Quit{/}
 UI_20150317_000948	{@st43}Настройки хижины{/}
 UI_20150317_000949	{@st59}Закрыть настройки хижины{/}
@@ -1153,7 +1153,7 @@ UI_20150323_001317	{@st43}Grimoire{/}
 UI_20150323_001318	{@st59}Close the Grimoire UI{/}
 UI_20150323_001320	Main Card
 UI_20150323_001321	Secondary Card
-UI_20150323_001328	{@st41b}Settings
+UI_20150323_001328	{@st41b}Настройки
 UI_20150323_001329	Unit Price
 UI_20150323_001330	{@st41b}Material List
 UI_20150323_001332	{@st59}Close UI{/}
@@ -1183,7 +1183,7 @@ UI_20150323_001359	Request Buy-in
 UI_20150323_001366	{@st41}Alchemy Materials
 UI_20150323_001367	{@st41}Alchemy Result {@stx1}(%s required){/}
 UI_20150323_001368	{@st59}Summon Pet{/}
-UI_20150323_001369	{@st41b}Character{/}
+UI_20150323_001369	{@st41b}Персонаж{/}
 UI_20150323_001370	{@st59}Grimoire{/}
 UI_20150323_001377	{@st43}Personal Storage{/}
 UI_20150323_001381	{@st59}Сохранить настройки хижины{/}
@@ -1191,9 +1191,9 @@ UI_20150323_001382	Поменять хижину
 UI_20150323_001383	{@st59}Закрыть окно смены хижины
 UI_20150323_001388	{@st59}Сменить обстановку{/}
 UI_20150323_001390	{@st59}Поменять настройки хижины{/}
-UI_20150323_001393	{@st41b}Change
-UI_20150323_001394	{@st59}Change Character Greeting{/}
-UI_20150323_001395	{@st59}Set Buy-in Shop{/}
+UI_20150323_001393	{@st41b}Поменять
+UI_20150323_001394	{@st59}Поменять приветствие персонажа{/}
+UI_20150323_001395	{@st59}Установить личный магазин{/}
 UI_20150323_001396	Purchase Quantity : %s{/}
 UI_20150323_001397	Search for items to buy
 UI_20150323_001398	Quantity
@@ -1227,9 +1227,9 @@ UI_20150401_001435	Materials for Poison
 UI_20150401_001436	{@st41b}Select All{/}
 UI_20150401_001437	{@st59}Unselect all by clicking again{/}
 UI_20150401_001438	{@st41b}Craft{/}
-UI_20150401_001440	{@st41b}Achievements{/}
-UI_20150401_001441	Hairstyle Color
-UI_20150401_001442	Available Titles
+UI_20150401_001440	{@st41b} Достижения{/}
+UI_20150401_001441	Цвет волос
+UI_20150401_001442	Доступные титулы
 UI_20150401_001449	Equipped
 UI_20150401_001453	Title %s
 UI_20150401_001454	Reward %s
@@ -1289,7 +1289,7 @@ UI_20150428_001535	{@st41_yellow}Helper Skill
 UI_20150428_001537	{@st43}UI Mode{/}
 UI_20150428_001542	{@st59}Joypad Info{/}
 UI_20150428_001544	{@st59}Keyboard Info{/}
-UI_20150428_001545	{@st43}Graphic Settings{/}
+UI_20150428_001545	{@st43}Настройки графики{/}
 UI_20150428_001546	{@st43}Performance{/}
 UI_20150428_001550	Game FAQ
 UI_20150428_001551	Players : (%s/%s)
@@ -1355,7 +1355,7 @@ UI_20150714_001623	{@st59}Increase skills{/}
 UI_20150714_001624	{@st59}Close Skills & Attributes{/}
 UI_20150714_001625	{@st43}Skills & Attributes{/}
 UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
-UI_20150714_001627	Likes Received : %s
+UI_20150714_001627	Лаек получено: %s {memo Likes…}
 UI_20150714_001629	{@st66b}Show Character Name{/}
 UI_20150714_001630	{@st66b}Show Team Name only{/}
 UI_20150714_001631	{@st66b}Show Other Players' Names{/}
@@ -1413,10 +1413,10 @@ UI_20150714_001684	{@st42} enhanced %s by %s
 UI_20150714_001685	Memo :%s
 UI_20150714_001686	{@st59}Add the material to this item slot.{/}
 UI_20150714_001687	{@st66b}Price : %s{/}
-UI_20150714_001688	Character Greeting
-UI_20150714_001689	Buy-in Shop
+UI_20150714_001688	Приветствие
+UI_20150714_001689	Магазин
 UI_20150714_001690	×%s
-UI_20150714_001691	{@41b}Criteria
+UI_20150714_001691	{@41b}Надо
 UI_20150714_001693	{@st41}Refresh
 UI_20150717_001695	{@st41b}{s56}This game is {#0066FF}
 UI_20150717_001696	Rated T.

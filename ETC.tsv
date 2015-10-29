@@ -1572,9 +1572,9 @@ ETC_20150317_001707	Crafting Completed!
 ETC_20150317_001708	The name of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001709	The memo of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001710	Tree
-ETC_20150317_001711	Quest
-ETC_20150317_001712	Weapon
-ETC_20150317_001713	Armor
+ETC_20150317_001711	Квест
+ETC_20150317_001712	Оружие
+ETC_20150317_001713	Броня
 ETC_20150317_001714	Two-handed Sword
 ETC_20150317_001715	Bow
 ETC_20150317_001716	Crossbow
@@ -1663,8 +1663,8 @@ ETC_20150317_001803	You have successfully adopted a Companion.
 ETC_20150317_001804	You can't include spaces in the name.
 ETC_20150317_001805	Together
 ETC_20150317_001806	Please dismount your Companion to feed it.
-ETC_20150317_001807	Physical Attack
-ETC_20150317_001808	Physical Defense
+ETC_20150317_001807	Физическая атака
+ETC_20150317_001808	Физическая защита
 ETC_20150317_001809	Increased defense when mounted
 ETC_20150317_001810	Increased evasion when mounted
 ETC_20150317_001811	Receive bonus HP when mounted
@@ -1762,7 +1762,7 @@ ETC_20150317_001908	(Attack Resistance)
 ETC_20150317_001909	Requires a record in the Adventure Journal. Press the A key to update whilst sitting.
 ETC_20150317_001910	You can now use the [{Auto_1}] title.
 ETC_20150317_001911	Attributes
-ETC_20150317_001912	{@st59} Click for more information {/}
+ETC_20150317_001912	{@st59} Нажмите для дополнительной информации {/}
 ETC_20150317_001913	The next skill level requires the same class advancement.
 ETC_20150317_001914	Use a Skill Point to increase its skill level.
 ETC_20150317_001915	Equipment
@@ -2350,41 +2350,41 @@ ETC_20150317_002706	Are you sure you want to cancel the item registration?
 ETC_20150317_002707	Your item has been successfully canceled from the Market. {nl} Please check if you've received the item.
 ETC_20150317_002708	This equipped item cannot be added.
 ETC_20150317_002709	Private
-ETC_20150317_002710	Confirm
-ETC_20150317_002711	Price: Low to High
-ETC_20150317_002712	Price: High to Low
-ETC_20150317_002713	Newly Listed
-ETC_20150317_002714	Price entered must be at least 1.
+ETC_20150317_002710	Подтвердить
+ETC_20150317_002711	Цена: Сначала низкие
+ETC_20150317_002712	Цена: Сначала высокие
+ETC_20150317_002713	Новые
+ETC_20150317_002714	Цена должна быть не меньше 1.
 ETC_20150317_002715	Only skills that consume items are possible.
 ETC_20150317_002716	Keep out! The stones should be delivered as soon as possible.
-ETC_20150317_002717	Bleeding Arrow
-ETC_20150317_002718	Penetrating Arrow
-ETC_20150317_002719	Explosive Arrow
+ETC_20150317_002717	Стрела кровотечения
+ETC_20150317_002718	Пробивающая стрела
+ETC_20150317_002719	Разрывная стрела
 ETC_20150317_002720	[Craftable]
-ETC_20150317_002721	Stamina
+ETC_20150317_002721	Стамина
 ETC_20150317_002722	Атака
-ETC_20150317_002723	Attacking Speed
-ETC_20150317_002724	Critical Rate
-ETC_20150317_002725	Durability
-ETC_20150317_002727	Accuracy
-ETC_20150317_002728	Critical Resistance
+ETC_20150317_002723	Скорость атаки
+ETC_20150317_002724	Шанс критической атаки
+ETC_20150317_002725	Прочность
+ETC_20150317_002727	Точность
+ETC_20150317_002728	Устойчивость к критическим атакам
 ETC_20150317_002730	INT
 ETC_20150317_002731	SPR
-ETC_20150317_002732	Skill Attack
-ETC_20150317_002733	Magic Resistance
-ETC_20150317_002734	Dugout Attack
-ETC_20150317_002735	Rim Attack
-ETC_20150317_002736	Magic Attack
-ETC_20150317_002737	Magic Defense
+ETC_20150317_002732	Атака навыком
+ETC_20150317_002733	Устойчивость к магии
+ETC_20150317_002734	Dugout Attack {memo TODO атака из землянки/окопа? О_о}
+ETC_20150317_002735	Rim Attack {memo TODO атака с тыла?}
+ETC_20150317_002736	Магическая атака
+ETC_20150317_002737	Магическая защита
 ETC_20150317_002738	Creates an additional slot when equipped
-ETC_20150317_002739	Gender
+ETC_20150317_002739	Пол
 ETC_20150317_002740	Maximum Socket(s)
-ETC_20150317_002741	Sell to shop
-ETC_20150317_002742	Trade with player
-ETC_20150317_002743	Enhance Potential
-ETC_20150317_002744	Sell Price to Shop
-ETC_20150317_002745	Equip Level
-ETC_20150317_002746	Equip Class
+ETC_20150317_002741	Продать в магазин
+ETC_20150317_002742	Обменяться с игроком
+ETC_20150317_002743	Улучшить потенциал
+ETC_20150317_002744	Магазинная цена
+ETC_20150317_002745	Уровень экипировки
+ETC_20150317_002746	Класс экипировки
 ETC_20150317_002747	Piercing
 ETC_20150317_002748	Slashing
 ETC_20150317_002749	Striking
@@ -2398,20 +2398,20 @@ ETC_20150317_002756	Rear Attack Range
 ETC_20150317_002757	Use specific skill
 ETC_20150317_002758	Possible
 ETC_20150317_002759	Not Available
-ETC_20150317_002760	Critical Attack
-ETC_20150317_002761	Critical Defense
+ETC_20150317_002760	Критическая атака
+ETC_20150317_002761	Критическая защита
 ETC_20150317_002762	Tradable
 ETC_20150317_002763	Untradeable
 ETC_20150317_002764	Potion recovery amount
-ETC_20150317_002765	SP Recovery
+ETC_20150317_002765	Восстановление SP
 ETC_20150317_002766	Cannot be sold
 ETC_20150317_002767	Fire Attack
 ETC_20150317_002768	Ice Attack
 ETC_20150317_002769	Poison Attack
 ETC_20150317_002770	Holy Attack
 ETC_20150317_002771	Dark Attack
-ETC_20150317_002772	Movement Speed
-ETC_20150317_002773	HP Recovery
+ETC_20150317_002772	Скорость передвижения
+ETC_20150317_002773	Восстановление HP
 ETC_20150317_002774	Attack on Plant Type Targets
 ETC_20150317_002775	Attack on Beast Type Targets
 ETC_20150317_002776	Attack on Demon Type Targets
@@ -2423,8 +2423,8 @@ ETC_20150317_002781	Poison Resistance
 ETC_20150317_002782	Lightning Resistance
 ETC_20150317_002783	Holy Resistance
 ETC_20150317_002784	Dark Resistance
-ETC_20150317_002785	AoE Attack Ratio
-ETC_20150317_002786	AoE Defense Ratio
+ETC_20150317_002785	Соотношение АоЕ аттак
+ETC_20150317_002786	Соотношение АоЕ защиты
 ETC_20150317_002787	2% chance of additional damage by +300 when attacking
 ETC_20150317_002788	3% chance of receiving continuous damage amounting to 20% of max HP when attacked
 ETC_20150317_002789	4% chance of additional resistance +100 of all when attacked by magic
@@ -2433,8 +2433,8 @@ ETC_20150317_002791	Knockback Power
 ETC_20150317_002792	Attack on Small Type Targets
 ETC_20150317_002793	Attack on Medium Type Targets
 ETC_20150317_002794	Attack on Large Type Targets
-ETC_20150317_002795	Block
-ETC_20150317_002796	Block Penetration
+ETC_20150317_002795	Блок
+ETC_20150317_002796	Пробитие блока
 ETC_20150317_002797	Attack on Cloth Armor Type
 ETC_20150317_002798	Attack on Leather Armor Type
 ETC_20150317_002799	Attack on Plate Armor Type
@@ -2450,7 +2450,7 @@ ETC_20150317_002809	Magic damage when mounted
 ETC_20150317_002810	Pierce Defense
 ETC_20150317_002811	Slash Defense
 ETC_20150317_002812	Strike Defense
-ETC_20150317_002813	Maximum Carry Weight
+ETC_20150317_002813	Максимальный вес инвентаря
 ETC_20150317_002814	Very Easy
 ETC_20150317_002815	Easy
 ETC_20150317_002816	Normal
@@ -3302,7 +3302,7 @@ ETC_20150317_003739	There is no function
 ETC_20150317_003740	There is no custom metabolism script function.
 ETC_20150317_003741	There is no specified function.
 ETC_20150317_003742	COMMON_QUEST_HANDLER Dlg UI of the PC which can occur when a nil L 2309
-ETC_20150317_003743	Quest
+ETC_20150317_003743	Квест
 ETC_20150317_003744	Column syntax error
 ETC_20150317_003745	The start of the track
 ETC_20150317_003746	{Auto_2} track of {Auto_1} quest does not exist
@@ -7567,7 +7567,7 @@ ETC_20150317_008934	Remove monsters
 ETC_20150317_008935	Toggle NPC Hide
 ETC_20150317_008936	NPC Function Name
 ETC_20150317_008937	Test Quest Tracking
-ETC_20150317_008938	Quest
+ETC_20150317_008938	Квест
 ETC_20150317_008939	Go to NPC Quest Track
 ETC_20150317_008940	Reset the smart gen previous place
 ETC_20150317_008941	Smart Gen Test
@@ -9238,55 +9238,55 @@ ETC_20150428_011252	The Tree of Faith came to life again as the Spring of Silenc
 ETC_20150428_011254	Defeat Demon Lord Blut!
 ETC_20150428_011255	Defeat Demon Lord Nuaele!
 ETC_20150428_011256	Tell Goddess Vakarine about Hauberk's escape!
-ETC_20150428_011257	Defeat 10,000 monsters
-ETC_20150428_011258	Beginning of the Hunt
-ETC_20150428_011259	Slaughterer
-ETC_20150428_011260	Defeat 1,000,000 monsters
-ETC_20150428_011261	Familiar Hunt
-ETC_20150428_011262	Adventurer
-ETC_20150428_011263	Achieve 10,000 overkills
-ETC_20150428_011264	Basics of Combat
-ETC_20150428_011265	Judge
-ETC_20150428_011266	Achieve 100,000 overkills
-ETC_20150428_011267	Skilled Battle
-ETC_20150428_011268	Monster Hunter
-ETC_20150428_011269	Defeat 10,000 boss monsters
-ETC_20150428_011270	Boss Killer
-ETC_20150428_011272	Again After Death
-ETC_20150428_011273	Apprentice
-ETC_20150428_011274	Craft 500 times
-ETC_20150428_011275	Path of the Apprentice
-ETC_20150428_011276	Artisan
-ETC_20150428_011277	Craft 10,000 times
-ETC_20150428_011278	Path of the Artisan
-ETC_20150428_011279	Kill 1,000 players
-ETC_20150428_011280	Craft 100 times
-ETC_20150428_011281	Hairstyle Color - White
-ETC_20150428_011282	Complete a party quest 25 times
-ETC_20150428_011283	Introduction to Crafting
-ETC_20150428_011284	Hairstyle Color - Blue
-ETC_20150428_011285	Complete the Owl Burial Ground quest
-ETC_20150428_011286	Unexpected Test
-ETC_20150428_011287	Hairstyle Color - Pink
-ETC_20150428_011288	Hunt 500 Hanamings
-ETC_20150428_011289	Wipe out Hanamings!
-ETC_20150428_011290	Hairstyle Color - Black
-ETC_20150428_011291	Play for 7 days
-ETC_20150428_011292	Never Ending Story
-ETC_20150428_011293	Talk to Degil 100 times
-ETC_20150428_011294	Explorer
-ETC_20150428_011295	Steal 50 Treasure Chests
-ETC_20150428_011296	Lucky Day
-ETC_20150428_011297	Grave Robber
-ETC_20150428_011298	Steal 150 Treasure Chests
-ETC_20150428_011299	In Search of Treasure
-ETC_20150428_011300	Steal 300 Treasure Chests
-ETC_20150428_011301	Rich Mine
-ETC_20150428_011302	Spectator
-ETC_20150428_011303	Give 500 gifts during match
-ETC_20150428_011304	Pleasure for a while
-ETC_20150428_011305	Give 5000 gifts during match
-ETC_20150428_011306	Fixed Seat
+ETC_20150428_011257	Победить 10,000 монстров
+ETC_20150428_011258	Начало охоты
+ETC_20150428_011259	Убивец{memo TODO Slaughterer}
+ETC_20150428_011260	Победить 1,000,000 монстров
+ETC_20150428_011261	Знакомая охота
+ETC_20150428_011262	Приключенец
+ETC_20150428_011263	Достигнуть 10,000 зверских убийств {memo TODO overkill}
+ETC_20150428_011264	Основы боя
+ETC_20150428_011265	Судья
+ETC_20150428_011266	Достигнуть 100,000 зверских убийств {memo TODO overkill}
+ETC_20150428_011267	Опытный боец
+ETC_20150428_011268	Охотник на монстров
+ETC_20150428_011269	Победить 10,000 боссов
+ETC_20150428_011270	Убийца боссов
+ETC_20150428_011272	Снова после смерти
+ETC_20150428_011273	Подмастерье
+ETC_20150428_011274	Произвести 500 предметов
+ETC_20150428_011275	Путь подмастерья
+ETC_20150428_011276	Ремесленник
+ETC_20150428_011277	Произвести 10,000 предметов
+ETC_20150428_011278	Путь ремесленника
+ETC_20150428_011279	Убить 1,000 игроков
+ETC_20150428_011280	Произвести 100 предметов
+ETC_20150428_011281	Белый цвет волос
+ETC_20150428_011282	Выполнить групповой квест 25 раз
+ETC_20150428_011283	Знакомство с ремеслом
+ETC_20150428_011284	Синий цвет волос
+ETC_20150428_011285	Выполнить квест "Погребальные земли сов"
+ETC_20150428_011286	Неожиданный тест
+ETC_20150428_011287	Розовый цвет волос
+ETC_20150428_011288	Убить 500 ханамингов
+ETC_20150428_011289	Истребление ханамингов!
+ETC_20150428_011290	Чёрный цвет волос
+ETC_20150428_011291	Играть 7 дней
+ETC_20150428_011292	Бесконечная история
+ETC_20150428_011293	Поговорить с Дегилом 100 раз
+ETC_20150428_011294	Исследователь
+ETC_20150428_011295	Украсть 50 сундуков
+ETC_20150428_011296	Удачный день
+ETC_20150428_011297	Расхититель могил
+ETC_20150428_011298	Украсть 150 сундуков
+ETC_20150428_011299	В поисках сокровищ
+ETC_20150428_011300	Украсть 300 сундуков
+ETC_20150428_011301	Rich Mine{memo TODO "Моя прелесть"?}
+ETC_20150428_011302	Зритель
+ETC_20150428_011303	Раздать 500 подарков во время матча
+ETC_20150428_011304	Временное удовольствие
+ETC_20150428_011305	Раздать 5000 подарков во время матча
+ETC_20150428_011306	Завсегдатай
 ETC_20150428_011307	Transformed into a demon. Able to talk to Pawndel and Pawnd.
 ETC_20150428_011308	Air purification change effect
 ETC_20150428_011309	The mysterious power of the crystal protects the body from the toxic gas spreading in Crystal Mines.
@@ -12083,8 +12083,8 @@ ETC_20150918_014594	There isn't any usable equipment
 ETC_20150918_014595	Some field monsters were involved in battles so you couldn't summon them
 ETC_20150918_014596	Stealing succeeded!
 ETC_20150918_014597	Crafting items.
-ETC_20150918_014598	Secondary Physical Attack
-ETC_20150918_014599	Seconday Magical Attack
+ETC_20150918_014598	Дополнительная физическая атака
+ETC_20150918_014599	Дополнительная магическая атака
 ETC_20150918_014600	Are you sure you want to block
 ETC_20150918_014601	You cannot 'Like' yet.
 ETC_20150918_014602	Friendly Duel Request
