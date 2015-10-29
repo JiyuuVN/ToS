@@ -5550,7 +5550,7 @@ ETC_20150317_005549	Vegetable Cultivation Count
 ETC_20150317_005550	Succeeded Commission Count
 ETC_20150317_005551	Field Event Completion
 ETC_20150317_005552	Dae-Gil Conversation
-ETC_20150317_005553	Treasure Chests
+ETC_20150317_005553	Сундуки
 ETC_20150317_005554	Item Crafting
 ETC_20150317_005555	Beauty Salon
 ETC_20150317_005556	Access Count
@@ -6047,14 +6047,14 @@ ETC_20150317_006047	{memo X}is used to warp to other areas.
 ETC_20150317_006048	To use the warp function, the 
 ETC_20150317_006049	 of the area needs to be activated
 ETC_20150317_006050	{memo X}can obtain character's Status Points
-ETC_20150317_006051	Treasure Chest
-ETC_20150317_006052	 contain special items that you can obtain.
-ETC_20150317_006053	Hidden in many fields, a 
-ETC_20150317_006054	 can be discovered by your character.
-ETC_20150317_006055	{memo X}There are many types of treasure chests that you can obtain special items from.
-ETC_20150317_006056	{memo X}You can receive the rewards by pressing {img SPACE 40 40} without any condition for a Lv1 treasure chest.
-ETC_20150317_006057	Keys are used to open level 2 chests and above.
-ETC_20150317_006058	{memo X}You can obtain the keys through quest progress.
+ETC_20150317_006051	Сундук
+ETC_20150317_006052	 содержат особые предметы, которые вы можете получить.
+ETC_20150317_006053	Во многих зонах можно найти спрятанный 
+ETC_20150317_006054	 .
+ETC_20150317_006055	{memo X}Существует немало видов сундуков, и в каждом можно найти что-нибудь полезное.
+ETC_20150317_006056	{memo X}Достать награду из сундука первого уровня можно просто нажав {img SPACE 40 40} 
+ETC_20150317_006057	Чтобы открыть сундук второго и выше{nl}уровней нужны ключи.
+ETC_20150317_006058	{memo X}Ключи можно получить продвигаясь по квестам.
 ETC_20150317_006059	Item Enhancement
 ETC_20150317_006060	{memo X}You can enhance your equipment through the enhancement system.
 ETC_20150317_006061	{memo X}Use {img F2 40 40} to open your inventory and {img mouseclick_right 40 40} on the 
@@ -13833,9 +13833,9 @@ ETC_20150729_013834	 to revive at the entrance outside the dungeon.
 ETC_20150729_013835	 $Receive beneficial effects when worshipping a Goddess Statue.
 ETC_20150729_013836	 gives you bonus Status Points.
 ETC_20150729_013837	 enables you to warp to other areas.
-ETC_20150729_013838	There are many types of treasure chests {nl}and you can obtain special items from them.
-ETC_20150729_013839	You can receive the items by pressing {img SPACE 40 40} in front of level 1 treasure chests.
-ETC_20150729_013840	 keys can be obtained through{nl}progressing in quests.
+ETC_20150729_013838	Существует немало видов сундуков, и в{nl}каждом можно найти что-нибудь полезное. 
+ETC_20150729_013839	Достать награду из сундука первого{nl}уровня можно просто нажав {img SPACE 40 40} 
+ETC_20150729_013840	 ключи можно получить{nl}продвигаясь по квестам.
 ETC_20150729_013841	Socialize with other players.
 ETC_20150729_013842	[Friend] You can check your Friends List using {img F7 40 40}. Players should agree with each other in order to add each other into their Friends List.
 ETC_20150729_013843	Use {img mouseclick_right 40 40} to send a request to another player that you want to become friends with.
