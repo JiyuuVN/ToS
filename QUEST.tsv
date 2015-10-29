@@ -35,9 +35,9 @@ QUEST_20150317_000043	Force start?
 QUEST_20150317_000044	Items to be deleted
 QUEST_20150317_000045	Select GenType
 QUEST_20150317_000046	Select Coordinates
-QUEST_20150317_000047	Knight Titas
-QUEST_20150317_000048	If so, go see Knight Commander Uska in Klaipeda. {nl}But first, I have an earnest errand that I'd like you to attend to.
-QUEST_20150317_000049	It would be nice if I could find a moment to relax…
+QUEST_20150317_000047	Рыцарь Титас
+QUEST_20150317_000048	Если так, то поговори с коммандиром Уской в Клайпеде. {nl}Но сначала у меня есть к тебе небольшая просьба.
+QUEST_20150317_000049	Было бы неплохо, если бы у меня была хоть минутка чтобы расслабиться…
 QUEST_20150317_000050	Sparnas… {nl}Not someone to take lightly…
 QUEST_20150317_000051	Soldier Moody
 QUEST_20150317_000052	Let's deal with this monster before talking.
@@ -297,7 +297,7 @@ QUEST_20150317_000386	Speaking of… {nl}About the plants mutating since four ye
 QUEST_20150317_000387	I wonder what Goddess Zemyna will think. {nl}Everything will be revealed when the Goddess returns but… {nl}Oh, what blasphemous words I speak.
 QUEST_20150317_000388	Have you ever seen the stars glittering red in the night sky? {nl}That's the very symbol of Goddess Vakarine. {nl}She leads the evening star and wakes Goddess Ausrine the following day.
 QUEST_20150317_000389	She also oversees energy and rest, so she is the guardian of travelers like you. {nl}Shout Goddess Vakarine's name three times when your legs hurt and you'll feel much better.
-QUEST_20150317_000390	What are you doing here? {nl}Did the Goddess also tell you to go to Klaipeda in your dreams?
+QUEST_20150317_000390	Что ты здесь делаешь? {nl}Тебе тоже богиня во сне сказала идти в Клайпеду?
 QUEST_20150317_000391	Still following me after all that? {nl}Fine, struggle all you want.
 QUEST_20150317_000395	Welcome. I heard you were coming from Uska. {nl}Don't just stand there. I wish to have a word with you.
 QUEST_20150317_000396	So, you're the one who got the revelation from the Crystal Mine, right? {nl}If it's alright with you, I'd like to hear the details.
@@ -680,11 +680,11 @@ QUEST_20150317_000835	When the spire is bathed with a red light the… door… t
 QUEST_20150317_000836	King Zachariel's Will
 QUEST_20150317_000838	Hmpf… {nl}Who would've thought that I would be challenged by humans…
 QUEST_20150317_000839	Your death shall be most painful!
-QUEST_20150317_000840	Soldier Recruitment Notice
-QUEST_20150317_000841	We want you! {nl}Protect your family and your kingdom. {nl} - Klaipeda Recruiting Station
-QUEST_20150317_000842	We are seeking brave young men who will bring order to these chaotic times. {nl}The world needs you! {nl} - Klaipeda Recruiting Station
-QUEST_20150317_000843	Honor. {nl}That is what your uniform will be made of. {nl} - Klaipeda Recruiting Station
-QUEST_20150317_000844	Warning! Civilians prohibited.
+QUEST_20150317_000840	Объявление о наборе солдат
+QUEST_20150317_000841	Нам нужен ты! {nl}Защити свою семью и королевство. {nl} - Призывной пункт Клайпеды
+QUEST_20150317_000842	Мы ищем молодых людей чтобы поддержать порядок в это неспокойное время. {nl}Миру нужен ты! {nl} - Призывной пункт Клайпеды
+QUEST_20150317_000843	Честь. {nl}Из неё будет сделана твоя униформа. {nl} - Призывной пункт Клайпеды
+QUEST_20150317_000844	Внимание! Гражданским вход воспрещён.
 QUEST_20150317_000846	Impossible.
 QUEST_20150317_000847	Completing this spell will help the soldiers. {nl}Will I be able to make it?
 QUEST_20150317_000849	I can do it. {nl}This time, I will kill Gaigalas.
@@ -923,7 +923,7 @@ QUEST_20150317_001228	The one who answered this question was none other than Mod
 QUEST_20150317_001230	However, to their bewilderment, not a single soul could recognize the Goddess whom the completed statue commemorated.{nl}
 QUEST_20150317_001232	And so, some people believed Modestas, having undertaken the Goddesses' intervention, was an honest man who did not gamble. In reality, Modestas didn't stop making gambles until his death. {nl}
 QUEST_20150317_001234	Though Modestas died an undefeated, invincible gambler, by then he had never bet anything other than the Goddess' identity, living purely off the profits gained from such bets through the end of his life. {nl}
-QUEST_20150317_001236	Talk To Knight Titas
+QUEST_20150317_001236	Поговорить с рыцарем Титасом
 QUEST_20150317_001237	Talk to the Scout
 QUEST_20150317_001238	Road to Klaipeda
 QUEST_20150317_001239	Talk to the Battle Commander

@@ -1,4 +1,4 @@
-QUEST_LV_0100_20150317_000001	Sentinel
+QUEST_LV_0100_20150317_000001	Стражник
 QUEST_LV_0100_20150317_000002	If you choose to go to Klaipeda, I recommend taking the Shadow Forest Road.{nl}The deep woods are dangerous, so try to stay away from there if you can.
 QUEST_LV_0100_20150317_000003	Man in Hiding
 QUEST_LV_0100_20150317_000004	Fi... Finally! Has help arrived?{nl}Huh?! It's just a kid? Hey... Are there still Vubbes outside?
@@ -8,7 +8,7 @@ QUEST_LV_0100_20150317_000007	Fi... Finally! Has help arrived?{nl}Huh?! It's jus
 QUEST_LV_0100_20150317_000008	What's that paper you're holding? It looks familiar...{nl}Let me see that! What are you doing? Hey, there's an adult speaking to you!
 QUEST_LV_0100_20150317_000009	This paper, it's mine! I'm never giving it away again!!{nl}It's.. not something you need - I'll just rip it apart. There.
 QUEST_LV_0100_20150317_000010	Sheesh, that's lame...
-QUEST_LV_0100_20150317_000011	After all the Goddesses had vanished, these dreams were one of the first things that came up.{nl}Maybe one of these people will be the one who brings the Goddesses back.
+QUEST_LV_0100_20150317_000011	Эти сны были одним из первых изменений после того как богини исчезли.{nl}Может кто-то из тех кто их видел сможет вернуть богинь.
 QUEST_LV_0100_20150317_000012	Soldier Blak
 QUEST_LV_0100_20150317_000013	Be warned!{nl}Monsters are attacking, so all civilians must evacuate!{nl}Why are those civilians in the military zone anyway?{nl}
 QUEST_LV_0100_20150317_000014	Ah, so you are the Revelator! I'm sorry, I didn't recognize you.{nl}Monsters are attacking the supply base at the moment.{nl}I need to get some important rations out from the base. Please help me!
@@ -350,9 +350,9 @@ QUEST_LV_0100_20150317_000416	Why have the Goddesses disappeared?{nl}Everyone is
 QUEST_LV_0100_20150317_000417	I can't eat, sleep, or move about freely because of those monsters.{nl}In the old days, we used gather herbs or pick fruits in the Siauliai Woods you know.
 QUEST_LV_0100_20150317_000418	Everyone is talking about the war wherever you go.{nl}Like who and how much people are hurt or who's assigned to where.{nl}All the stories about the war makes me sick!
 QUEST_LV_0100_20150317_000419	I heard they will send soldiers who aren't even trained into the nest of monsters.{nl}Might as well gather the old people and make them soldiers too.
-QUEST_LV_0100_20150317_000420	My life is just a cycle of anxiety and anger.{nl}The Goddess should return soon.
-QUEST_LV_0100_20150317_000421	There are suddenly many people who have had a revelation in their dreams.{nl}Could it be a sign that something is about to happen again?{nl}
-QUEST_LV_0100_20150317_000422	The bishop of Klaipeda saw a Goddess in his dream.{nl} Did you also have such a dream, Revelator?
+QUEST_LV_0100_20150317_000420	Моя жизнь — бесконечный круговорот волнения и злости.{nl}Скорее бы богиня вернулась.
+QUEST_LV_0100_20150317_000421	В последнее время полно людей, которым во сне пришло откровение.{nl}Может это знак что скоро снова что-то случится?{nl}
+QUEST_LV_0100_20150317_000422	Клайпедский епископ во сне увидел богиню.{nl} Тебе тоже было такое видение, богослов{memo Revelator — так походу оно переводится}?
 QUEST_LV_0100_20150317_000423	Mother of a Soldier
 QUEST_LV_0100_20150317_000426	)}Even if Klaipeda is safe, aren't the other cities in chaos?{nl}Putting aside the capital, Fedimian has totally collapsed except for the Sacred Area.
 QUEST_LV_0100_20150317_000428	)}Maybe Klaipeda is where the Goddess has bestowed her blessings.{nl}I hope the blessings will also reach my son in the army.
@@ -1189,8 +1189,8 @@ QUEST_LV_0100_20150317_001446	Believer Zaneta
 QUEST_LV_0100_20150317_001447	I want to tell to the people out there that we are still here.{nl}The Goddess always tells us that everything will be alright when the revelation comes.
 QUEST_LV_0100_20150317_001448	Believer Simas
 QUEST_LV_0100_20150317_001451	So, I guess there is actually someone good among those who say they've dreamed of the Goddess.
-QUEST_LV_0100_20150317_001452	I'm relieved that there are people who say they dreamed of a Goddess. {nl} But there seem to be too many of them.
-QUEST_LV_0100_20150317_001453	A dream of one of the disappeared Goddesses. Isn't that something amazing?
+QUEST_LV_0100_20150317_001452	Я рад что есть люди, утверждающие что видели во сне богиню. {nl} Но как-то их многовато.
+QUEST_LV_0100_20150317_001453	Сон об одной из исчезнувших богинь. Что может быть лучше?
 QUEST_LV_0100_20150317_001454	The colleague who I used to work with has disappeared.{nl}He was definitely with me at the Forest of Fireflies, but I won't go back there. It's scary.
 QUEST_LV_0100_20150317_001455	Where is he. I am scared.
 QUEST_LV_0100_20150317_001458	I'm screwed. Monsters took my bag. {nl}The bag contained everything I recorded on my journey.. What should I do?{nl}
@@ -1840,8 +1840,8 @@ QUEST_LV_0100_20150317_002209	Guardian's Stone Statue
 QUEST_LV_0100_20150317_002211	Broker between the life and death of humans. {nl} That's what Bokor is, if you ask.
 QUEST_LV_0100_20150317_002212	You don't look like a delivery man. What's up?{nl}
 QUEST_LV_0100_20150317_002213	There's no head of a Long-Branched Tree in here. Should I get it for them?
-QUEST_LV_0100_20150317_002214	Klaipeda is a small and quiet town. {nl} We haven't had so many people come to town before.
-QUEST_LV_0100_20150317_002215	Did the Goddess mention her whereabouts in the dream of revelation?
+QUEST_LV_0100_20150317_002214	Клайпеда — маленький и тихий городок. {nl} Никогда раньше здесь не было столько народу.
+QUEST_LV_0100_20150317_002215	Богиня часом не упомянула где она в своём откровении?
 QUEST_LV_0100_20150317_002216	Go ahead to Klaipeda. {nl}Commander Uska is waiting for you at the Central Plaza.{nl}
 QUEST_LV_0100_20150317_002217	I heard the bishop also had a dream about a Goddess, so it probably has something to do with that.
 QUEST_LV_0100_20150317_002218	That girl. {nl} She just appeared in town some time ago. {nl}
@@ -1924,7 +1924,7 @@ QUEST_LV_0100_20150317_002326	I can't leave here unless I complete the mission..
 QUEST_LV_0100_20150317_002327	He is so stupid. {nl} He could have given it sooner in good terms rather than getting on each other's nerves. {nl} Hmm. Maybe I belittled myself too much.
 QUEST_LV_0100_20150317_002328	Don't you act like you know me anymore! {nl} It not my fault. That's the one who's bad!
 QUEST_LV_0100_20150317_002329	Are we there yet? {nl} I think we need to eat something to regain strength.
-QUEST_LV_0100_20150317_002330	Frankly, I'm afraid of what the world will turn into.
+QUEST_LV_0100_20150317_002330	Если честно, то мне страшно от того куда катится этот мир.
 QUEST_LV_0100_20150317_002331	Cyrenia Odell
 QUEST_LV_0100_20150317_002332	Hmm.. where is this place?{nl}What about Rexipher? Where is he?
 QUEST_LV_0100_20150317_002333	Oh? The woman. I forgot.{nl}I will release her as promised. Do try to keep her alive.
@@ -1956,8 +1956,8 @@ QUEST_LV_0100_20150317_002360	Dear Savior, {nl} in order for me to regain my who
 QUEST_LV_0100_20150317_002362	Revelation of Tenet Chapel
 QUEST_LV_0100_20150317_002363	Revelation of Kvailas Forest
 QUEST_LV_0100_20150317_002364	Revelation of Royal Mausoleum
-QUEST_LV_0100_20150317_002365	[Tutorial] Talk to Knight Titas (1)
-QUEST_LV_0100_20150317_002366	Return to Knight Titas
+QUEST_LV_0100_20150317_002365	[Обучение] Поговорить с рыцарем{nl}Титасом (1)
+QUEST_LV_0100_20150317_002366	Вернуться к Титасу
 QUEST_LV_0100_20150317_002369	Decline
 QUEST_LV_0100_20150317_002370	Talk to the Scout (1)
 QUEST_LV_0100_20150317_002371	I'm just here to tell the troops to assemble
@@ -1965,9 +1965,9 @@ QUEST_LV_0100_20150317_002372	Quickly run away
 QUEST_LV_0100_20150317_002373	Talk to the Scout (2)
 QUEST_LV_0100_20150317_002374	I'll find your missing belongings
 QUEST_LV_0100_20150317_002375	I'll wait until you find it
-QUEST_LV_0100_20150317_002377	Talk to Knight Titas (3)
+QUEST_LV_0100_20150317_002377	Поговорить с рыцарем{nl}Титасом (3)
 QUEST_LV_0100_20150317_002378	Alright
-QUEST_LV_0100_20150317_002379	Cancel
+QUEST_LV_0100_20150317_002379	Отмена
 QUEST_LV_0100_20150317_002380	Talk to the Search Scout
 QUEST_LV_0100_20150317_002381	There is an order to assemble
 QUEST_LV_0100_20150317_002382	Nothing. Never mind
@@ -2356,7 +2356,7 @@ QUEST_LV_0100_20150317_002956	Let's gather the force of the guardians and find t
 QUEST_LV_0100_20150317_002957	Not interested
 QUEST_LV_0100_20150317_002959	Hidden Place (2)
 QUEST_LV_0100_20150317_002960	Find the royal spell
-QUEST_LV_0100_20150317_002961	Cancel
+QUEST_LV_0100_20150317_002961	Отмена
 QUEST_LV_0100_20150317_002962	Emergency (1)
 QUEST_LV_0100_20150317_002963	Gather the spell
 QUEST_LV_0100_20150317_002964	Emergency (2)
@@ -3026,9 +3026,9 @@ QUEST_LV_0100_20150317_003818	Pharmacist's Favor (2)
 QUEST_LV_0100_20150317_003819	Kindness of the Mister
 QUEST_LV_0100_20150317_003826	Talk to the Sentinel
 QUEST_LV_0100_20150317_003827	Ask the Sentinel for directions to Klaipeda.
-QUEST_LV_0100_20150317_003828	Talk to Knight Titas in Western Forest Camp
+QUEST_LV_0100_20150317_003828	Поговорить с рыцарем Титасом в западном лесном лагере.
 QUEST_LV_0100_20150317_003829	Ask Sir Titas what's blocking the way to Klaipeda.
-QUEST_LV_0100_20150317_003831	Ask Knight Titas about the current situation.
+QUEST_LV_0100_20150317_003831	Спросить у Титаса о текущей ситуации.
 QUEST_LV_0100_20150317_003834	Talk to the Scout in the marked area
 QUEST_LV_0100_20150317_003835	You were asked to tell the troops to assemble before going to Klaipeda. Tell the Scout about it.
 QUEST_LV_0100_20150317_003836	Defeat the Kepas surging in
@@ -5341,7 +5341,7 @@ QUEST_LV_0100_20150428_006794	The demons had been chasing the revelation before 
 QUEST_LV_0100_20150428_006795	Alright, I will tell the troops to assemble
 QUEST_LV_0100_20150428_006798	Gorath's Concern (3)
 QUEST_LV_0100_20150428_006805	To Starving Demon's Way
-QUEST_LV_0100_20150428_006807	Talk to Knight Titas again
+QUEST_LV_0100_20150428_006807	Снова поговорить с рыцарем Титасом
 QUEST_LV_0100_20150428_006808	You dreamed about the Goddess telling you to go to Klaipeda, but Knight Titas is asking you whether you could tell the order of gathering to them. Talk to Sir Titas again.
 QUEST_LV_0100_20150428_006809	Extinguished the research diary on the fire place
 QUEST_LV_0100_20150428_006810	You burned all diaries to calm his soul. Talk to the spirit of the adventurer, Varkis.
@@ -6019,8 +6019,8 @@ QUEST_LV_0100_20150714_007617	You've filled the Goddess Austeja's Scripture with
 QUEST_LV_0100_20150714_007618	You've filled the Goddess Austeja's Scripture with sacred energy. Offer it to the Sealed Tower.
 QUEST_LV_0100_20150714_007619	You've filled the Goddess Austeja's Scripture with sacred energy. Offer it to the Sealed Tower.
 QUEST_LV_0100_20150714_007620	You've restored the seal. Tell Ramelia about it.
-QUEST_LV_0100_20150717_007622	Talk to Knight Titas (1)
-QUEST_LV_0100_20150717_007623	Talk to Knight Titas (2)
+QUEST_LV_0100_20150717_007622	Поговорить с рыцарем{nl}Титасом (1)
+QUEST_LV_0100_20150717_007623	Поговорить с рыцарем{nl}Титасом (2)
 QUEST_LV_0100_20150717_007624	Collect %s from the Spare Purifier
 QUEST_LV_0100_20150717_007625	Defeat the Red Vubbe Fighter that suddenly appeared
 QUEST_LV_0100_20150717_007626	A Red Vubbe Fighter appeared when you opened the box! Defeat it.
@@ -6365,7 +6365,7 @@ QUEST_LV_0100_20150918_008119	There might be more of these Large Kepas roaming i
 QUEST_LV_0100_20150918_008120	It was just as I thought, right? It was this instinct that kept me alive during Medzio Diena.
 QUEST_LV_0100_20150918_008121	It's been too long, my men should've come back, but I haven't heard anything from them yet.{nl}I know it's been four years since Medzio Diena, but my men have been getting too relaxed recently.
 QUEST_LV_0100_20150918_008122	
-QUEST_LV_0100_20150918_008123	With the Goddesses disappearing, and monsters like the Golem appearing... {nl}Is there really any hope?
+QUEST_LV_0100_20150918_008123	Богини исчезли, монстры лезут изо всех щелей... {nl}Есть ли у нас хоть какая-то надежда?
 QUEST_LV_0100_20150918_008124	How was it? Were there many skills that seemed useful?{nl}If you use skills effectively, they will be very useful in combat.{nl}
 QUEST_LV_0100_20150918_008125	If that's the case, you will become bait and take care of the Royal Mausoleum defense device at Sesija Entrance.{nl}I will only say this once, so you better listen carefully.
 QUEST_LV_0100_20150918_008126	No one can disturb the eternal sleep of the great king.

@@ -375,7 +375,7 @@ UI_20150317_000402	{s20}{#050505}Monster Description Monster Description Monster
 UI_20150317_000403	{@st41} Kill {/}
 UI_20150317_000404	{@st41} Overkill {/}
 UI_20150317_000405	{@st41} Normal Kill {/}
-UI_20150317_000406	{@st41} Area {/}
+UI_20150317_000406	{@st41} Зона {/}
 UI_20150317_000407	{@st41} Item {/}
 UI_20150317_000408	{@st41} Achievement {/}
 UI_20150317_000409	Object
@@ -437,7 +437,7 @@ UI_20150317_000499	Click again to unselect all
 UI_20150317_000502	{@st43}Category{/}
 UI_20150317_000503	{@st43}Me{/}
 UI_20150317_000504	{@st43}Object{/}
-UI_20150317_000505	{@st43}Level{/}
+UI_20150317_000505	{@st43}Уровень{/}
 UI_20150317_000506	{@st43}Funds{/}
 UI_20150317_000507	{@st43}Rate{/}
 UI_20150317_000508	{@st43}PvP Win rate{/}
@@ -555,7 +555,7 @@ UI_20150317_000637	{@st41}Settle Transaction{/}
 UI_20150317_000638	{@st41}After Transaction{/}
 UI_20150317_000639	{@st41}Items purchased{/}
 UI_20150317_000641	{@st41}Crafting Skills
-UI_20150317_000642	{@st42}Level %s{/}
+UI_20150317_000642	{@st42}Уровень %s{/}
 UI_20150317_000643	Crafting costs
 UI_20150317_000644	Crafting Qty
 UI_20150317_000645	Approximately %s seconds consumed
@@ -589,7 +589,7 @@ UI_20150317_000675	{@st41}View all{/}
 UI_20150317_000676	{@st41}Create Map{/}
 UI_20150317_000677	{@st41}%s/min (%s in hand){/}
 UI_20150317_000678	Keyboard Warrior
-UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Level{/}
+UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Уровень{/}
 UI_20150317_000680	{@st41_yellow}Employment Time
 UI_20150317_000681	{@st43}Graffiti{/}
 UI_20150317_000682	{@st59}Close Spray{/}
@@ -626,7 +626,7 @@ UI_20150317_000714	{@st59}Change Character Name{/}
 UI_20150317_000716	{@st59}Apply{/}
 UI_20150317_000717	{@st41b}Cancel
 UI_20150317_000719	PC Name
-UI_20150317_000720	{@st41_yellow}Level: {@st41}%s{/}
+UI_20150317_000720	{@st41_yellow}Уровень: {@st41}%s{/}
 UI_20150317_000722	{@st43}Attack Effects{/}
 UI_20150317_000723	{@st43}Defense Effects{/}
 UI_20150317_000724	{@st43}Stat{/}
@@ -1038,7 +1038,7 @@ UI_20150317_001176	{@St41}Attribute Points
 UI_20150317_001177	{@St41}Class Name
 UI_20150317_001178	Имя персонажа
 UI_20150317_001179	{@Sti7}Delete{/}
-UI_20150317_001180	Character Level
+UI_20150317_001180	Уровень персонажа
 UI_20150317_001181	{@St42}Quest Sharing{/}
 UI_20150317_001182	{@St42}EXP Sharing{/}
 UI_20150317_001183	Character Memo
@@ -1102,13 +1102,13 @@ UI_20150317_001250	{@St44}Rank %s Class Information{/}
 UI_20150317_001251	Advancement Alarm
 UI_20150317_001252	Like Heart
 UI_20150317_001253	N/A
-UI_20150317_001254	Level %s
+UI_20150317_001254	Уровень %s
 UI_20150317_001256	Ayase
 UI_20150317_001257	Relationship with the %s
 UI_20150317_001258	{#FFFF33}%s{/} wants to become a friend{/}
 UI_20150317_001259	{@St41b}Accept
 UI_20150317_001261	{@St53b}Loading your friends list.
-UI_20150317_001262	Level %s{/}
+UI_20150317_001262	Уровень %s{/}
 UI_20150317_001263	{@st41} Cancel
 UI_20150317_001264	Please add the buff to sell.
 UI_20150317_001265	Price : %s{/}
@@ -1167,12 +1167,12 @@ UI_20150323_001341	{@st43}Equipment Maintenance{/}
 UI_20150323_001343	{@st41b}Materials
 UI_20150323_001344	{@st43}Repair{/}
 UI_20150323_001345	{@st41b}Repair{/}
-UI_20150323_001346	Skill Level
+UI_20150323_001346	Уровень навыка
 UI_20150323_001347	{@st41}No. of players to enter
 UI_20150323_001348	{@st43}Item upgrade dungeon
 UI_20150323_001349	{@st41}Materials Required
 UI_20150323_001350	{@st59}Materials Required{/}
-UI_20150323_001351	Recommended Level : %s
+UI_20150323_001351	Рекомендованный уровень : %s
 UI_20150323_001353	{@st43}Buy-in Shop
 UI_20150323_001354	Shop Name
 UI_20150323_001355	{@st41b}Open Shop
@@ -1254,8 +1254,8 @@ UI_20150414_001484	{@st59b} Monster {/}
 UI_20150414_001485	{@st59b} Move Map {/}
 UI_20150414_001486	{@st59b} Battle Command {/}
 UI_20150414_001487	{s26}{b}
-UI_20150414_001488	{s26}{b}Level
-UI_20150414_001489	{@st44}{s26}Level
+UI_20150414_001488	{s26}{b}Уровень
+UI_20150414_001489	{@st44}{s26}Уровень
 UI_20150414_001490	{@st59b}{s26}ea
 UI_20150414_001491	{@st41b}Cooking
 UI_20150414_001492	{@st41b}Food
@@ -1313,7 +1313,7 @@ UI_20150714_001572	{@st59}Close UI{/}
 UI_20150714_001573	{@st66b}Check{/}
 UI_20150714_001574	{@st66b}Leave Helper(Requires %s iCoin){/}
 UI_20150714_001575	Extra Socket Price : {#000000}%s{/} {nl}Gem Extract Price : {#000000}%s{/}
-UI_20150714_001576	{ds}Recommended Level : %s
+UI_20150714_001576	{ds}Рекомендованный уровень : %s
 UI_20150714_001577	Explored : 50.0%
 UI_20150714_001578	{@st45tw}[%s% explored]{/}
 UI_20150714_001579	>>Show More Info...
@@ -1321,20 +1321,20 @@ UI_20150714_001580	%s (Rank %s)
 UI_20150714_001581	Job Name
 UI_20150714_001582	{@st41b}Invite
 UI_20150714_001583	{@st41}Если хотите использовать контроллер или мышь, то можете переключить соответствующую настройку в системном меню.{nl}
-UI_20150714_001586	{@st42}Level Difference{/}
+UI_20150714_001586	{@st42}Разница в уровне{/}
 UI_20150714_001587	Any
 UI_20150714_001592	{@st42}Item Priority
 UI_20150714_001593	{@st42}EXP Priority
 UI_20150714_001594	Individual EXP
 UI_20150714_001595	Equal EXP
-UI_20150714_001596	By Level
+UI_20150714_001596	По уровню
 UI_20150714_001597	{@st42}Quest Sharing
 UI_20150714_001598	Disabled
 UI_20150714_001599	{@st42}Public Party{/}
 UI_20150714_001601	{@st42}Use 'Recommend Party'{/}
 UI_20150714_001602	By Distance
 UI_20150714_001603	By Class
-UI_20150714_001604	By Level
+UI_20150714_001604	По уровню
 UI_20150714_001605	By Quest
 UI_20150714_001606	By Closeness
 UI_20150714_001608	>>Party Preview...
@@ -1402,7 +1402,7 @@ UI_20150714_001673	{#000000}%s seconds
 UI_20150714_001674	{#000000}%s equipped
 UI_20150714_001675	Party Name : {#2c140c}%s{/}
 UI_20150714_001676	Description : {#2c140c}%s{/}
-UI_20150714_001677	Average Party Level : {#2c140c}%s{/}
+UI_20150714_001677	Средний уровень группы : {#2c140c}%s{/}
 UI_20150714_001678	Searching For : {#2c140c}%s{/}
 UI_20150714_001679	Quest Sharing : {#2c140c}%s{/}
 UI_20150714_001680	EXP Priority : {#2c140c}%s{/}

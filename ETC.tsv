@@ -1126,8 +1126,8 @@ ETC_20150317_001147	Pyromancer Master's Lab
 ETC_20150317_001148	Mercenary Post
 ETC_20150317_001149	Royal Territory
 ETC_20150317_001150	Orsha
-ETC_20150317_001151	West Siauliai Woods
-ETC_20150317_001152	Siauliai
+ETC_20150317_001151	Запад Шяуляйского леса
+ETC_20150317_001152	Шяуляй
 ETC_20150317_001153	Miners' Village
 ETC_20150317_001154	Crystal Mine 1F
 ETC_20150317_001155	Crystal Mine
@@ -2457,16 +2457,16 @@ ETC_20150317_002816	Normal
 ETC_20150317_002817	Hard
 ETC_20150317_002818	Very Hard
 ETC_20150317_002819	{S22}{ol}Next quest level: {Auto_1}
-ETC_20150317_002820	Area: 
+ETC_20150317_002820	Зона: 
 ETC_20150317_002821	{@st45w3}{s18}x{Auto_2} {Auto_1} {/}
 ETC_20150317_002822	{@st41}Reward(s) received:
-ETC_20150317_002823	{@st64} Approach the NPC and use 
-ETC_20150317_002824	Space Bar
-ETC_20150317_002825	 to start a conversation
+ETC_20150317_002823	{@st64} Подойдите к NPC и нажмите 
+ETC_20150317_002824	Пробел
+ETC_20150317_002825	 чтобы начать разговор
 ETC_20150317_002826	Give up quest
 ETC_20150317_002827	Abandon
 ETC_20150317_002828	Warp to Completion Point
-ETC_20150317_002829	Objective: 
+ETC_20150317_002829	Задача: 
 ETC_20150317_002830	Warrior Type
 ETC_20150317_002834	Sorcerer Type
 ETC_20150317_002835	Human Type
@@ -3117,7 +3117,7 @@ ETC_20150317_003534	Chase the Hamming!
 ETC_20150317_003535	Defeat the Large Kepa!
 ETC_20150317_003536	Defeat the sealed Golem!
 ETC_20150317_003537	Get rid of the Kepa blocking the road!
-ETC_20150317_003538	Ask about the dream
+ETC_20150317_003538	Спросить про сон
 ETC_20150317_003542	Road on Left: Chinency field (Caution) {nl} Road on right: Temporary camp
 ETC_20150317_003543	Danger!{nl} Return to Klaipeda!
 ETC_20150317_003545	Keep Out{nl} Incinerating Kepas!
@@ -3382,7 +3382,7 @@ ETC_20150317_003819	Home
 ETC_20150317_003820	Sub
 ETC_20150317_003821	Repetitive
 ETC_20150317_003822	Endless loop
-ETC_20150317_003823	Talk to NPC
+ETC_20150317_003823	Поговорить с NPC
 ETC_20150317_003824	Item acquired
 ETC_20150317_003825	Use items
 ETC_20150317_003826	of area
@@ -3706,7 +3706,7 @@ ETC_20150317_004156	Weapon
 ETC_20150317_004157	Equipment
 ETC_20150317_004158	] The [
 ETC_20150317_004159	Do you want to equip it to ]?
-ETC_20150317_004160	 Level
+ETC_20150317_004160	 Уровень
 ETC_20150317_004161	{#FFFF00}[{Auto_1}] achieved the <{Auto_2}> achievement.
 ETC_20150317_004162	{#FFFF00}{a SEARCH_FAME_RANK {Auto_1} {Auto_2}}[{Auto_3}] achieved <{Auto_4}> achievement.
 ETC_20150317_004163	Items cannot be used in the salon.
@@ -3783,7 +3783,7 @@ ETC_20150317_004236	{@st55_c} Experience:
 ETC_20150317_004237	Waiting for the other player to accept.
 ETC_20150317_004238	You cannot trade already equipped items.
 ETC_20150317_004239	You do not have enough funds.
-ETC_20150317_004240	{Auto_1}: Level {Auto_2} {Auto_3}
+ETC_20150317_004240	{Auto_1}: Уровень {Auto_2} {Auto_3}
 ETC_20150317_004241	{@st49} Save
 ETC_20150317_004242	{@st49} Select
 ETC_20150317_004243	} Hello there
@@ -4562,7 +4562,7 @@ ETC_20150317_005093	Slate
 ETC_20150317_005097	Great Cathedral Candlestick
 ETC_20150317_005098	Barrier Candlestick
 ETC_20150317_005099	Video
-ETC_20150317_005100	Stop right there!
+ETC_20150317_005100	Ни с места!
 ETC_20150317_005102	Yes!
 ETC_20150317_005106	Mineral Detector
 ETC_20150317_005107	Defeat Saltistter!
@@ -4773,7 +4773,7 @@ ETC_20150317_005369	It's a Large Kepa!
 ETC_20150317_005370	Alchemist Vaidotas
 ETC_20150317_005371	2nd Mine Lot Closed
 ETC_20150317_005372	Evacuate the residents!
-ETC_20150317_005373	Stop that person!!
+ETC_20150317_005373	А ну стоять!!!
 ETC_20150317_005374	Eastern Woods Soldier
 ETC_20150317_005375	Come on let's go! Honey! Dad!
 ETC_20150317_005376	That's really good news. Let's go!
@@ -12602,7 +12602,7 @@ ETC_20151001_015197	Don't die!
 ETC_20151001_015198	I will go!
 ETC_20151001_015199	There are no fallen items nearby.
 ETC_20151001_015200	Skull Slash!!
-ETC_20151001_015201	Level {Level}
+ETC_20151001_015201	Уровень {Level}
 ETC_20151001_015202	Equip One-handed Sword Dagger
 ETC_20151001_015203	Equip One-handed Sword Sub
 ETC_20151001_015204	Equip Crossbow Dagger
