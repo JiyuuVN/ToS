@@ -6242,7 +6242,7 @@ ETC_20150317_006242	{S18} and {#001100} attacking you will be able to obtain a l
 ETC_20150317_006243	{memo X}{S18} {#001100} items when you attack the Treasure monster will drop !!! {/}
 ETC_20150317_006244	{S18} {#001100} You can progress the quest by pressing the Space key in the vicinity of the red flag of NPC. {/}
 ETC_20150317_006245	{S18} {#001100} You can increase the capacity value by collecting items to the collection. {/}
-ETC_20150317_006246	Swordsmen are warriors who have strong physical abilities.{nl}They use various weapons to deal with enemies up close {nl}at the front lines.
+ETC_20150317_006246	Мечники — выдающиеся воины. Вооружённые{nl}обширным арсеналом, они всегда рвутся в ближний бой.
 ETC_20150317_006247	Highlander
 ETC_20150317_006248	{memo X}Highlanders are tough fighters and use two-handed swords. They make enemies collide with each other or terrain so they are great for handling multiple enemies.
 ETC_20150317_006249	Peltasta
@@ -6260,7 +6260,7 @@ ETC_20150317_006260	Rodelero
 ETC_20150317_006261	Rodeleros ambush and disintegrate enemies. Their defensive skills using shields are effective for blocking long range attacks.
 ETC_20150317_006262	Squire
 ETC_20150317_006263	Shinobi
-ETC_20150317_006264	{memo $ shifts linebreak}Wizards use magic to block attacks and protect themselves.{nl}They can cast powerful and concentrated spells, dealing damage to a single target or multiple enemies in an area.
+ETC_20150317_006264	{memo $ shifts linebreak}Колдуны пользуются магией чтобы блокировать{nl}атаки и обороняться.{nl}Мощные заклятья позволяют им наносить урон как{nl}одиноким врагам, так и группам.
 ETC_20150317_006265	Pyromancer
 ETC_20150317_006266	Pyromancers use continuous fire magic to fight against multiple enemies.
 ETC_20150317_006267	Cryomancer
@@ -6299,7 +6299,7 @@ ETC_20150317_006299	Schwarzer Reiter
 ETC_20150317_006300	Fletcher
 ETC_20150317_006301	Pied Piper
 ETC_20150317_006302	Appraiser
-ETC_20150317_006303	Clerics heal and protect allies through the blessings{nl}of the Goddess, while knocking down their enemies {nl}with powerful blows.
+ETC_20150317_006303	Удел жреца — с благословления богини лечить и{nl}защищать союзников. Однако он также может и{nl}сокрушить врага мощным ударом.
 ETC_20150317_006304	Priest
 ETC_20150317_006305	Priests are clerics who give blessings and resurrect the dead with their holy powers.
 ETC_20150317_006306	Krivis
