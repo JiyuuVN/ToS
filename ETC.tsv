@@ -1569,7 +1569,7 @@ ETC_20150317_001568	Your strength is insufficient
 ETC_20150317_001569	Starting map not available.
 ETC_20150317_001570	Request Failed
 ETC_20150317_001571	This character is currently a party leader and cannot be deleted.
-ETC_20150317_001572	Create Character
+ETC_20150317_001572	Создать персонажа
 ETC_20150317_001573	You need to learn the required attributes to use this weapon.
 ETC_20150317_001574	Item Purchased
 ETC_20150317_001575	Failed to purchase item! It has already been sold out.
@@ -1616,7 +1616,7 @@ ETC_20150317_001615	The other player is not logged in
 ETC_20150317_001616	The number of purchasable items is limited
 ETC_20150317_001617	24 hours has not elapsed yet since changing your name
 ETC_20150317_001618	Can not be greater than {Auto_1} bytes
-ETC_20150317_001619	Character Name
+ETC_20150317_001619	Имя персонажа
 ETC_20150317_001620	You do not have enough materials.
 ETC_20150317_001621	{memo X}{S18}{ol}{#ffffcc}Connecting to the server...
 ETC_20150317_001622	This item cannot be discarded.
@@ -1659,8 +1659,8 @@ ETC_20150317_001658	{Sec} sec
 ETC_20150317_001659	Please enter a title.
 ETC_20150317_001660	Learning
 ETC_20150317_001661	You must spend all your skill points before you can advance.
-ETC_20150317_001662	Male
-ETC_20150317_001663	Female
+ETC_20150317_001662	М
+ETC_20150317_001663	Ж
 ETC_20150317_001664	{Month}
 ETC_20150317_001665	{Year}
 ETC_20150317_001666	This channel is full.
@@ -1737,10 +1737,10 @@ ETC_20150317_001736	This item does not have enough sockets.
 ETC_20150317_001737	You have insufficient funds.
 ETC_20150317_001738	Level 1 or higher
 ETC_20150317_001739	any class
-ETC_20150317_001740	Swordsman 
-ETC_20150317_001741	Archer 
-ETC_20150317_001742	Cleric 
-ETC_20150317_001743	Wizard 
+ETC_20150317_001740	Мечник 
+ETC_20150317_001741	Лучник 
+ETC_20150317_001742	Жрец 
+ETC_20150317_001743	Колдун 
 ETC_20150317_001744	Not possible on this item.
 ETC_20150317_001745	This item is not equipped with a gem.
 ETC_20150317_001746	Please select a socket.
@@ -1921,15 +1921,15 @@ ETC_20150317_001920	Random
 ETC_20150317_001921	Equal
 ETC_20150317_001922	By Level
 ETC_20150317_001923	View All
-ETC_20150317_001924	Swordsman
-ETC_20150317_001925	Wizard
-ETC_20150317_001926	Archer
-ETC_20150317_001927	Cleric
+ETC_20150317_001924	Мечник
+ETC_20150317_001925	Колдун
+ETC_20150317_001926	Лучник
+ETC_20150317_001927	Жрец
 ETC_20150317_001928	{memo X}View Information
 ETC_20150317_001929	Channel
 ETC_20150317_001930	Do you want to move to channel {Channel}?
 ETC_20150317_001931	Price
-ETC_20150317_001932	's Lodge
+ETC_20150317_001932	 
 ETC_20150317_001933	This channel is closed.
 ETC_20150317_001934	iCoin Shop
 ETC_20150317_001935	Defense
@@ -5866,25 +5866,25 @@ ETC_20150317_005865	Create Poison Field
 ETC_20150317_005866	{memo X}Paereomyun Collection
 ETC_20150317_005867	Get rid of the Vubbe tribe!
 ETC_20150317_005868	Get rid of the Vubbe tribe for test!
-ETC_20150317_005869	Short Cut
-ETC_20150317_005870	Asymmetrical Short Cut
-ETC_20150317_005871	Long Shaggy
-ETC_20150317_005872	Regent
-ETC_20150317_005873	Volume Curl
-ETC_20150317_005874	Short Shaggy
-ETC_20150317_005875	{memo X}Ponytail
+ETC_20150317_005869	Короткие
+ETC_20150317_005870	Короткие ассиметричные
+ETC_20150317_005871	Длинные космы
+ETC_20150317_005872	Регент
+ETC_20150317_005873	Объёмные локоны
+ETC_20150317_005874	Короткие космы
+ETC_20150317_005875	{memo X}Хвост
 ETC_20150317_005876	Slicked-back Hair
-ETC_20150317_005877	Twintail
+ETC_20150317_005877	Хвостики
 ETC_20150317_005878	Baby Perm
-ETC_20150317_005879	Reggae Ponytail
+ETC_20150317_005879	Регги-хвост
 ETC_20150317_005880	Dandy
-ETC_20150317_005881	Double Bun
-ETC_20150317_005882	Short Ponytail
-ETC_20150317_005883	Long Layered
-ETC_20150317_005884	Noble Wave
-ETC_20150317_005885	Short Twin Tail
+ETC_20150317_005881	Две булочки
+ETC_20150317_005882	Короткий хвост
+ETC_20150317_005883	Длинные кудри
+ETC_20150317_005884	Благородная волна
+ETC_20150317_005885	Короткие хвостики
 ETC_20150317_005886	Shadow Perm
-ETC_20150317_005887	Tied Long Wave
+ETC_20150317_005887	Уложенные локоны
 ETC_20150317_005888	Subject
 ETC_20150317_005889	Short Description
 ETC_20150317_005890	Description1
@@ -6281,7 +6281,7 @@ ETC_20150317_006281	{memo X}Elementalist
 ETC_20150317_006282	Elementalists use the power of elements and can cast powerful magic attacks. However, their spells have a long cooldown time, so it is recommended to cooperate with other players.
 ETC_20150317_006283	Mimic
 ETC_20150317_006284	Taoist Priest
-ETC_20150317_006285	Archers use bows and various secondary equipment.{nl}Their specialties are long range and moving attacks.
+ETC_20150317_006285	Лучники специализируются на стрельбе и движении.{nl}Помимо лука они также используют разнообразные{nl}дополнительные орудия.
 ETC_20150317_006286	Hunter
 ETC_20150317_006287	Hunters are trainers who hunt enemies using companions. Companions use skills which require cooperation with their owners, such as biting and holding onto enemies or finding hidden targets.
 ETC_20150317_006288	Quarrel Shooter
@@ -10014,7 +10014,7 @@ ETC_20150323_010015	Elementalist Advancement
 ETC_20150323_010016	Card Synthesis
 ETC_20150323_010017	Enter your personal greeting
 ETC_20150323_010018	{memo X}Visit Barrack
-ETC_20150323_010019	Start Game
+ETC_20150323_010019	Начать игру
 ETC_20150323_010020	User Buy-in Shop
 ETC_20150323_010021	Buff Shop
 ETC_20150323_010022	Crafter is still using the skill.
@@ -10337,8 +10337,8 @@ ETC_20150323_010338	Briquetting
 ETC_20150323_010339	Black 
 ETC_20150323_010340	Blue 
 ETC_20150323_010341	Pink
-ETC_20150323_010342	Long Ponytail
-ETC_20150323_010343	Long Wave Twintail
+ETC_20150323_010342	Длинный хвост
+ETC_20150323_010343	Волнистые хвостики
 ETC_20150323_010344	Dvasia Peak_1_2
 ETC_20150323_010345	Priest
 ETC_20150323_010346	Badge Signature
@@ -13516,9 +13516,9 @@ ETC_20150717_013517	You disconnected from the server{nl}due to a verification fa
 ETC_20150717_013518	Your password is incorrect.
 ETC_20150717_013519	You have reached the maximum amount of characters.{nl}To create a new character, you must first delete an existing character.
 ETC_20150717_013520	Please enter your account password.
-ETC_20150717_013521	Entering the world...
+ETC_20150717_013521	Материализуемся...
 ETC_20150717_013522	Do you want to learn this attribute?
-ETC_20150717_013523	Connecting to the server...
+ETC_20150717_013523	Подключаемся...
 ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy Button{/}{/}{nl}Press and hold the Shift button + right-click{nl}to sell multiple quantities of an item.{nl}Double-click to sell all.
 ETC_20150717_013525	You will be moved to another channel, due to this one being too full.
 ETC_20150717_013526	When enhancing armor, bracelets or necklaces past +{Auto_1}, if it fails, the Potential of that item will decrease by 1.{nl} {nl}When the Potential falls below 0, the item will be destroyed. Do you want to continue?
