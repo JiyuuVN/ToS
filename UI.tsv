@@ -423,11 +423,11 @@ UI_20150317_000422	{memo X}Parts 3
 UI_20150317_000423	Congratulations! Your level has increased.
 UI_20150317_000424	Item Alarm
 UI_20150317_000425	{@st64}Details{/}
-UI_20150317_000426	How to Play
-UI_20150317_000427	{@st42b}          Move once with each of the keys{/}
-UI_20150317_000428	{@st42b}         Use a basic attack{/}
-UI_20150317_000429	{@st42b}                Jump up{/}
-UI_20150317_000430	{@st42b}     Use two keys together to move diagonally{/}
+UI_20150317_000426	Как играть
+UI_20150317_000427	{@st42b}      Используйте каждую из кнопок{nl}                               движения{/}
+UI_20150317_000428	{@st42b}     Используйте атаку{/}
+UI_20150317_000429	{@st42b}          Подпрыгните{/}
+UI_20150317_000430	{@st42b}  Нажмите две кнопки одновременно          чтобы двигаться по диагонали{/}
 UI_20150317_000431	Fog Map Tool
 UI_20150317_000432	Tool for killing monsters
 UI_20150317_000433	Tool for making minimap
@@ -1580,7 +1580,7 @@ UI_20150714_001579	>>Show More Info...
 UI_20150714_001580	%s (Rank %s)
 UI_20150714_001581	Job Name
 UI_20150714_001582	{@st41b}Invite
-UI_20150714_001583	{@st41}If you want to use the joypad or mouse to control your character, you can select this option from the game settings in the system menu.{nl}
+UI_20150714_001583	{@st41}Если хотите использовать контроллер или мышь, то можете переключить соответствующую настройку в системном меню.{nl}
 UI_20150714_001584	{memo X}When you meet a character matching your party conditions, {nl}[Party match found!] notice will be shown.{nl}You will also be recommended to other parties.
 UI_20150714_001585	{memo X}{@st42}Play Style{/}
 UI_20150714_001586	{@st42}Level Difference{/}
@@ -1738,7 +1738,7 @@ UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
 UI_20150729_001739	{@st59}Close Arrow Crafting{/}
 UI_20150729_001740	{memo X}Fragments needed : Mutant %s / Beast %s / Plant %s
-UI_20150729_001741	{@st42b}         Swordsman classes can sprint by                        double-tapping a directional key{/}
+UI_20150729_001741	{@st42b}           Мечники могут ускориться                         нажав на кнопку дважды{/}
 UI_20150729_001742	{@st41}Party Settings
 UI_20150729_001743	{@st41}Party Recruit Settings
 UI_20150729_001744	{@st42}Search for Party Members{/}

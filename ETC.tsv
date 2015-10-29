@@ -2719,7 +2719,7 @@ ETC_20150317_002718	Penetrating Arrow
 ETC_20150317_002719	Explosive Arrow
 ETC_20150317_002720	[Craftable]
 ETC_20150317_002721	Stamina
-ETC_20150317_002722	Attack
+ETC_20150317_002722	Атака
 ETC_20150317_002723	Attacking Speed
 ETC_20150317_002724	Critical Rate
 ETC_20150317_002725	Durability
@@ -4266,13 +4266,13 @@ ETC_20150317_004265	The amount is low.
 ETC_20150317_004266	Moni
 ETC_20150317_004267	 key has been assigned to 
 ETC_20150317_004268	 to your quick slot.
-ETC_20150317_004269	Space bar \
-ETC_20150317_004270	{@st41} Key to start a conversation {/}
-ETC_20150317_004271	{@st41} Movement {/}
-ETC_20150317_004272	{@st41} Attack{/}
-ETC_20150317_004273	{@st41} Jump {/}
-ETC_20150317_004274	{@st41} Diagonal Movement {/}
-ETC_20150317_004275	{@st41} = diagonal {/}
+ETC_20150317_004269	Пробел \
+ETC_20150317_004270	{@st41} Кнопка для начала разговора {/}
+ETC_20150317_004271	{@st41} Движение {/}
+ETC_20150317_004272	{@st41} Атака{/}
+ETC_20150317_004273	{@st41} Прыжок {/}
+ETC_20150317_004274	{@st41} Движение по диагонали {/}
+ETC_20150317_004275	{@st41} = диагональ {/}
 ETC_20150317_004276	{@st59} Even if a party member is far away, it won't disappear from the party list{/}
 ETC_20150317_004277	{@st59}If the state of quest proceeds is same with party, then share the quest{nl} This function will be activated when you check both character options. {/}
 ETC_20150317_004278	{@st59} Experience from killing monsters is shared between party members. {/}To enable this feature, all party members must activate it in the options. {/}
@@ -4742,7 +4742,7 @@ ETC_20150317_004741	No data
 ETC_20150317_004742	No rank last week
 ETC_20150317_004743	Hunting
 ETC_20150317_004744	{@st64} Let's apply that approach to the NPC dialogue with \ ScpArgMsg ("Auto_SeuPeiSeuBa \")!
-ETC_20150317_004745	{@st43} Learn the basic controls of the game!
+ETC_20150317_004745	{@st43} Давайте изучим основы управления!
 ETC_20150317_004746	(In the block)
 ETC_20150317_004747	Select your {@st41b} reward: {/}
 ETC_20150317_004748	No items
