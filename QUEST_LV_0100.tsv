@@ -352,7 +352,7 @@ QUEST_LV_0100_20150317_000418	Everyone is talking about the war wherever you go.
 QUEST_LV_0100_20150317_000419	I heard they will send soldiers who aren't even trained into the nest of monsters.{nl}Might as well gather the old people and make them soldiers too.
 QUEST_LV_0100_20150317_000420	Моя жизнь — бесконечный круговорот волнения и злости.{nl}Скорее бы богиня вернулась.
 QUEST_LV_0100_20150317_000421	В последнее время полно людей, которым во сне пришло откровение.{nl}Может это знак что скоро снова что-то случится?{nl}
-QUEST_LV_0100_20150317_000422	Клайпедский епископ во сне увидел богиню.{nl} Тебе тоже было такое видение, богослов{memo Revelator — так походу оно переводится}?
+QUEST_LV_0100_20150317_000422	Клайпедский епископ во сне увидел богиню.{nl} Тебе тоже было такое видение{memo, пророк |лучше уж класс перевести как "провидец" имхо}?
 QUEST_LV_0100_20150317_000423	Mother of a Soldier
 QUEST_LV_0100_20150317_000426	)}Even if Klaipeda is safe, aren't the other cities in chaos?{nl}Putting aside the capital, Fedimian has totally collapsed except for the Sacred Area.
 QUEST_LV_0100_20150317_000428	)}Maybe Klaipeda is where the Goddess has bestowed her blessings.{nl}I hope the blessings will also reach my son in the army.
