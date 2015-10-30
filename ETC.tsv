@@ -5323,12 +5323,12 @@ ETC_20150317_006246	Мечники — выдающиеся воины. Воор
 ETC_20150317_006247	Горец
 ETC_20150317_006249	Пельтаст
 ETC_20150317_006250	Пельтасты — это воины-защитники использующие щиты для блокировки вражеских атак и провоцирования противника.
-ETC_20150317_006251	Hoplites use spears with a long attack range. They gain a bonus when fighting against strong, large-sized enemies.
+ETC_20150317_006251	Гоплиты используют в бою длинные копья. Особенно сильны против могучих больших врагов.
 ETC_20150317_006252	Центурион
 ETC_20150317_006254	Варвар
-ETC_20150317_006255	Barbarians are reckless and aggressive warriors who are not bound to any formats in battle and would do anything to claim victory in their hands.
+ETC_20150317_006255	Варвары — безрассудные и агрессивные воины, не обременённые понятием о честном правильно бое, готовые делать что угодня для своей победы.
 ETC_20150317_006256	Катафрактарий
-ETC_20150317_006257	Оружие Катафрактариев — двуручные копья. Это кавалерия, задача которой прорывать строй противника и сеять хаось в их рядах.
+ETC_20150317_006257	Оружие Катафрактариев — двуручные копья. Это кавалерия, задача которой прорывать строй противника и сеять хаос в их рядах.
 ETC_20150317_006258	Корсар
 ETC_20150317_006259	Доппельзольднер
 ETC_20150317_006260	Родельеро
@@ -5339,36 +5339,36 @@ ETC_20150317_006264	{memo $ shifts linebreak}Волшебники пользую
 ETC_20150317_006265	Пиромант
 ETC_20150317_006266	Пироманты используют необузданную силу огня, чтобы повергать группы врагов.
 ETC_20150317_006267	Криомант
-ETC_20150317_006268	Cryomancers use ice magic to freeze foes or protect their allies from enemies by using ice walls.
+ETC_20150317_006268	Криоманты используют магию льда чтобы замораживать врагов и защищать союзников ледяными стенами.
 ETC_20150317_006269	Психокинетик
-ETC_20150317_006270	Psychokinos use psychokinesis to control gravity or pull enemies and throw them around.
+ETC_20150317_006270	Психокинетики использую телекинез для контролирования графитации и швыряния врагов туда-сюда по полу боя.
 ETC_20150317_006271	Алхимик
 ETC_20150317_006273	Медиум (Linker)
-ETC_20150317_006274	Linkers link allies together to reduce the damage received or connect enemies to amplify the damage inflicted.
+ETC_20150317_006274	Медиумы способны соединять союзников или врагов, усиливая и их, или увеличивая повреждения.
 ETC_20150317_006275	Хрономант
 ETC_20150317_006277	Некромант
 ETC_20150317_006279	Тауматург
-ETC_20150317_006280	Thaumaturges use magic that changes the attributes and size of targets. They can shrink enemies or strengthen allies to aid them in battle.
-ETC_20150317_006282	Elementalists use the power of elements and can cast powerful magic attacks. However, their spells have a long cooldown time, so it is recommended to cooperate with other players.
+ETC_20150317_006280	Тауматурги используют свою магию для ослабления врагов или усиленя союзников, помогая им в бою.
+ETC_20150317_006282	Элементалист, используя силу стихий, может создавать мощные атакующие заклинания. Но за это приходится платить скоротью перезарядки.
 ETC_20150317_006283	Мимик
 ETC_20150317_006284	Таоист (Taoist Priest)
 ETC_20150317_006285	Лучники специализируются на стрельбе и движении.{nl}Помимо лука они также используют разнообразные{nl}дополнительные орудия.
 ETC_20150317_006286	Охотник
 ETC_20150317_006287	Hunters are trainers who hunt enemies using companions. Companions use skills which require cooperation with their owners, such as biting and holding onto enemies or finding hidden targets.
-ETC_20150317_006288	Quarrel Shooter
-ETC_20150317_006289	Quarrel Shooters use a crossbow and shield for strategic combat. They can defend against long-range attacks and use catapult skills against approaching enemies.
+ETC_20150317_006288	Военный стрелок(?)надмозг/Арбалетчик (Quarrel Shooter)
+ETC_20150317_006289	Quarrel Shooters используют в бою щиты и арбалеты. Они могут защищаться шитом от дальних атак и отбрасывать выстрелами близко подошедших врагов.
 ETC_20150317_006290	Рэйнджер
-ETC_20150317_006291	Rangers specialize in fighting against multiple enemies with their quick and long-range attacks.
+ETC_20150317_006291	Рейнджеры специализируются на быстрых дальних атаках против групп врагов.
 ETC_20150317_006292	Траппер/Сапёр(?)(Sapper)
-ETC_20150317_006293	Sappers are archers who install traps and lure enemies into them.
+ETC_20150317_006293	Sappers используют ловушки и капканы, заманивая в них в врагов.
 ETC_20150317_006294	Wugushi
 ETC_20150317_006295	Wugushis specialize in using various poisons to attack or bewitch enemies.
-ETC_20150317_006296	Hackapell
+ETC_20150317_006296	Хаккапелитта (Hackapell)
 ETC_20150317_006297	Скаут
-ETC_20150317_006298	Scouts specialize in reconnaissance and infiltration. They use stealth to hide themselves and convey the enemy's situation to allies for an advantage in battle.
+ETC_20150317_006298	Скауты — специалисты разведки и скрытного проникновения. Они используют камуфляж для получения информации о врагах и передчи её союзникам.
 ETC_20150317_006299	Шварце Райтер
 ETC_20150317_006300	Fletcher
-ETC_20150317_006301	Pied Piper
+ETC_20150317_006301	Крысолов(?)(Pied Piper)
 ETC_20150317_006302	Оценщик (Appraiser)
 ETC_20150317_006303	Удел жреца — с благословления богини лечить и{nl}защищать союзников. Однако он также может и{nl}сокрушить врага мощным ударом.
 ETC_20150317_006304	Священник
