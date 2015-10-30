@@ -3,7 +3,7 @@ UI_20150317_000002	{@st43}Attribute List {/}
 UI_20150317_000003	{@st59}Close the Attribute List {/}
 UI_20150317_000004	{@st43}Learn Attributes{/}
 UI_20150317_000005	{@st59}Close Attributes window{/}
-UI_20150317_000006	{@st41b}Funds{/}
+UI_20150317_000006	{@st41b}Деньги{/}
 UI_20150317_000007	Мои достижения
 UI_20150317_000008	Server Ranking
 UI_20150317_000009	{@st59}An unexpected event is available.{/}
@@ -37,34 +37,34 @@ UI_20150317_000037	{@st45}Survey{/}
 UI_20150317_000038	{@st49}Create
 UI_20150317_000039	{@st49}Delete
 UI_20150317_000040	{@st44}Save{/}
-UI_20150317_000041	{@st44}Cancel{/}
-UI_20150317_000042	{@st43}{s22}Hair Shop{/}
-UI_20150317_000043	{@st59}Previous Hairstyle{/}
-UI_20150317_000044	{@st59}Next Hairstyle{/}
-UI_20150317_000045	{@st41b} Change {s18} (100 iCoins required) {/}
-UI_20150317_000046	{@st59}Change to selected hairstyle.{/}
-UI_20150317_000047	{@st41}Cancel
-UI_20150317_000048	{@st43}Black Market{/}
-UI_20150317_000049	Name of Book
-UI_20150317_000050	{@St59}Stop reading{/}
-UI_20150317_000051	{@st59}Previous Page{/}
-UI_20150317_000052	{@st59}Next Page{/}
+UI_20150317_000041	{@st44}Отменить{/}
+UI_20150317_000042	{@st43}{s22}Парикмахерская{/}
+UI_20150317_000043	{@st59}Предыдущая причёска{/}
+UI_20150317_000044	{@st59}Следующая причёска{/}
+UI_20150317_000045	{@st41b} Поменять {s18} (требуется 100 iCoins) {/}
+UI_20150317_000046	{@st59}Поменять на выбранную причёску.{/}
+UI_20150317_000047	{@st41}Отменить
+UI_20150317_000048	{@st43}Чёрный рынок{/}
+UI_20150317_000049	Имя книги
+UI_20150317_000050	{@St59}Прекратить читать{/}
+UI_20150317_000051	{@st59}Предыдущая страница{/}
+UI_20150317_000052	{@st59}Следующая страница{/}
 UI_20150317_000053	{@st47}%s appeared!
-UI_20150317_000054	{@st43}Score{/}
-UI_20150317_000055	Damage Received
-UI_20150317_000056	Technique Bonus
-UI_20150317_000057	Evasion Bonus
-UI_20150317_000058	Clear Time
-UI_20150317_000059	Total Score
-UI_20150317_000060	{@st42}Elapsed Time
-UI_20150317_000061	10 minutes
-UI_20150317_000062	10 seconds
-UI_20150317_000064	{@st59}Close Vending Machine{/}
-UI_20150317_000065	{@st43}Buff Vending Machine
-UI_20150317_000066	Vending Machine Name
-UI_20150317_000069	Buff Vending Machine
-UI_20150317_000070	{@st59}Close the Buff Vending Machine.
-UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buffs from another player.
+UI_20150317_000054	{@st43}Очки{/}
+UI_20150317_000055	Урона получено
+UI_20150317_000056	Бонус за техничность
+UI_20150317_000057	Бонус за уклонение
+UI_20150317_000058	Время
+UI_20150317_000059	Итог
+UI_20150317_000060	{@st42}Прошло времени
+UI_20150317_000061	10 минут
+UI_20150317_000062	10 секунд
+UI_20150317_000064	{@st59}Закрыть торговый автомат{/}
+UI_20150317_000065	{@st43}Раздатчик бафов
+UI_20150317_000066	Название торгового автомата
+UI_20150317_000069	Раздатчик бафов
+UI_20150317_000070	{@st59}Закрыть раздатчик бафов.
+UI_20150317_000071	{@st59}Раздатчик бафов{nl} - Можно получить бафы от другого игрока в обмен на серебро.
 UI_20150317_000072	Carriage Menu
 UI_20150317_000073	{ol}{s22}Disembark{/}
 UI_20150317_000074	Casting
@@ -98,8 +98,8 @@ UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - How to use: {nl} 1. Drag the ge
 UI_20150317_000106	{@st59}Close Macro{/}
 UI_20150317_000107	{@st41b}Save {/}
 UI_20150317_000108	{@st59}Save your changes{/}
-UI_20150317_000109	{@st41b}Cancel {/}
-UI_20150317_000110	{@st59}Cancel your changes{/}
+UI_20150317_000109	{@st41b}Отменить {/}
+UI_20150317_000110	{@st59}Отменить your changes{/}
 UI_20150317_000111	{@st42}Chat Settings
 UI_20150317_000112	{@st42}Transparency
 UI_20150317_000113	Show chat balloon
@@ -149,7 +149,7 @@ UI_20150317_000164	{@st49}All{/}
 UI_20150317_000165	{@st49}System{/}
 UI_20150317_000166	{@st49}Talk{/}
 UI_20150317_000167	{@st49}Combat{/}
-UI_20150317_000168	{@st49}Item{/}
+UI_20150317_000168	{@st49}Предметы{/}
 UI_20150317_000169	{@st43}Credits{/}
 UI_20150317_000171	NPC Name
 UI_20150317_000172	Compare
@@ -159,12 +159,12 @@ UI_20150317_000175	Text Help
 UI_20150317_000176	{@st41}Item Crafting{/}
 UI_20150317_000177	{@st45tw2}Crafting the item...
 UI_20150317_000178	%r seconds
-UI_20150317_000179	{@st41}Cancel{/}
+UI_20150317_000179	{@st41}Отменить{/}
 UI_20150317_000180	{@st45tw2}Quantity{/}
 UI_20150317_000181	{@st45tw2}Do you want to craft this item?
 UI_20150317_000182	{@st41}Confirm{/}
 UI_20150317_000183	Quest Information
-UI_20150317_000184	{@st59}Cancel Trade{/}
+UI_20150317_000184	{@st59}Отменить Trade{/}
 UI_20150317_000185	{@st43}Personal Trade{/}
 UI_20150317_000186	My Trading List
 UI_20150317_000187	Silver : %s
@@ -186,7 +186,7 @@ UI_20150317_000203	Start a game with other players.
 UI_20150317_000204	Decline game invite.
 UI_20150317_000205	Spray Presets
 UI_20150317_000206	{@st49}Select{/}
-UI_20150317_000207	{@st49}Cancel{/}
+UI_20150317_000207	{@st49}Отменить{/}
 UI_20150317_000208	{@st49}Delete{/}
 UI_20150317_000209	Enter a file name to save.
 UI_20150317_000210	{@st43}Friends
@@ -232,7 +232,7 @@ UI_20150317_000250	{@st59}Enter the contents{/}
 UI_20150317_000251	{@st41b}Confirm
 UI_20150317_000252	{@st59}Confirm {/}
 UI_20150317_000253	{@st41b}Close
-UI_20150317_000254	{@st59}Cancel {/}
+UI_20150317_000254	{@st59}Отменить {/}
 UI_20150317_000255	{@st43}Warp{/}
 UI_20150317_000256	{@st59}Close Warp Window{/}
 UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Allows you to quickly travel to regions you have already visited. {nl} - Feature is activated when two or more warp points are available. {nl} {/}
@@ -242,25 +242,25 @@ UI_20150317_000260	{@st41b}Do you want to move to this area?{/}
 UI_20150317_000261	What about Siauliai
 UI_20150317_000262	Coin Consumed : 0
 UI_20150317_000263	Intro
-UI_20150317_000264	{@st43}Inventory{/}
-UI_20150317_000265	{@st59}Close Inventory{/}
-UI_20150317_000267	{@st59}Hairstyle Costume 1{/}
-UI_20150317_000268	{@st59}Hairstyle Costume 2{/}
-UI_20150317_000269	{@st59}Necklace{/}
-UI_20150317_000270	{@st59}Costume{/}
-UI_20150317_000271	{@st59}Top{/}
-UI_20150317_000272	{@st59}Gloves{/}
-UI_20150317_000273	{@st59}Pants{/}
-UI_20150317_000274	{@st59}Shoes{/}
-UI_20150317_000275	{@st59}Left Hand{/}
-UI_20150317_000276	{@st59}Right Hand{/}
-UI_20150317_000277	{@st59}Bracelet 1{/}
-UI_20150317_000278	{@st59}Bracelet 2{/}
-UI_20150317_000279	{@st59}Armband{/}
-UI_20150317_000280	{@st59}Search{/}
-UI_20150317_000281	Weight
+UI_20150317_000264	{@st43}Инвентарь{/}
+UI_20150317_000265	{@st59}Закрыть инвентарь{/}
+UI_20150317_000267	{@st59}Причёска 1{/}
+UI_20150317_000268	{@st59}Причёска 2{/}
+UI_20150317_000269	{@st59}Ожерелье{/}
+UI_20150317_000270	{@st59}Костюм{/}
+UI_20150317_000271	{@st59}Верх{/}
+UI_20150317_000272	{@st59}Перчатки{/}
+UI_20150317_000273	{@st59}Штаны{/}
+UI_20150317_000274	{@st59}Обувь{/}
+UI_20150317_000275	{@st59}Левая рука{/}
+UI_20150317_000276	{@st59}Правая рука{/}
+UI_20150317_000277	{@st59}Браслет 1{/}
+UI_20150317_000278	{@st59}Браслет 2{/}
+UI_20150317_000279	{@st59}Повязка на руку{/}
+UI_20150317_000280	{@st59}Поиск{/}
+UI_20150317_000281	   Вес
 UI_20150317_000283	{@st59}Close the Item Repair UI{/}
-UI_20150317_000288	{@st59}Ring 1{/}
+UI_20150317_000288	{@st59}Кольцо 1{/}
 UI_20150317_000289	{@st43}Item Crafting{/}
 UI_20150317_000290	{@st42b}Show only craftable items{/}
 UI_20150317_000291	{@st59}Close Item Crafting {/}
@@ -359,15 +359,15 @@ UI_20150317_000386	{s16}Participants : (0/5)
 UI_20150317_000387	{s16}Participants : (%s /%s)
 UI_20150317_000388	{s16}The game starts after 1 second.
 UI_20150317_000389	{s16}The game starts after %s seconds.
-UI_20150317_000390	{@st59}Zoom in{/}
-UI_20150317_000391	{@st59}Zoom out{/}
-UI_20150317_000392	{@st59}Map (M){/}
-UI_20150317_000393	{@st42b} Area Map
+UI_20150317_000390	{@st59}Приблизить{/}
+UI_20150317_000391	{@st59}Отдалить{/}
+UI_20150317_000392	{@st59}Карта (M){/}
+UI_20150317_000393	{@st42b} Карта местности
 UI_20150317_000394	{@st44}Item Synthesizer{/}
 UI_20150317_000395	{s16}{#FFcc66}{ol}Please select the item you want to create{/}{/}
 UI_20150317_000396	{s16}{#FFcc66}{ol}Drag the ingredients to the slots
 UI_20150317_000397	{@st42}Create{/}
-UI_20150317_000398	{@st42} Cancel {/}
+UI_20150317_000398	{@st42} Отменить {/}
 UI_20150317_000399	Information of %s
 UI_20150317_000400	Kepa or ...
 UI_20150317_000401	{@st41}{Details}
@@ -376,7 +376,7 @@ UI_20150317_000403	{@st41} Kill {/}
 UI_20150317_000404	{@st41} Overkill {/}
 UI_20150317_000405	{@st41} Normal Kill {/}
 UI_20150317_000406	{@st41} Зона {/}
-UI_20150317_000407	{@st41} Item {/}
+UI_20150317_000407	{@st41} Предмет {/}
 UI_20150317_000408	{@st41} Achievement {/}
 UI_20150317_000409	Object
 UI_20150317_000410	{@st43}Necronomicon{/}
@@ -417,8 +417,8 @@ UI_20150317_000470	{ol}Action for applying rules
 UI_20150317_000471	Enter a name for the rule
 UI_20150317_000472	{Gr gradation1}Registration{/}
 UI_20150317_000473	Register Rules
-UI_20150317_000474	{Gr gradation1}Cancel{/}
-UI_20150317_000475	Cancel Action
+UI_20150317_000474	{Gr gradation1}Отменить{/}
+UI_20150317_000475	Отменить Action
 UI_20150317_000476	{@st43}Companion Info
 UI_20150317_000477	{@st59b} Companion Info{nl}{@st59s} - You can set your Companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your Companion can be customized. {/}
 UI_20150317_000478	{@st59}Close Companion Info{/}
@@ -563,7 +563,7 @@ UI_20150317_000646	{@st41}Create
 UI_20150317_000649	{@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
 UI_20150317_000651	{@st59}Apply{/}
 UI_20150317_000652	Cleric
-UI_20150317_000653	{@st59}Cancel{/}
+UI_20150317_000653	{@st59}Отменить{/}
 UI_20150317_000654	Learning {#ff4400}%s (Lv. %s){/}...
 UI_20150317_000655	Psychohassle
 UI_20150317_000656	%s minutes left
@@ -636,7 +636,7 @@ UI_20150317_000727	{@st59}Инвентарь (F2){/}
 UI_20150317_000728	{@st59}Классы и навыки (F3){/}
 UI_20150317_000729	{@st59}Дневник приключений (F4){/}
 UI_20150317_000730	{@st59}Квест (F5){/}
-UI_20150317_000731	{@st59}Групп (F6){/}
+UI_20150317_000731	{@st59}Группа (F6){/}
 UI_20150317_000732	{@st59}Друзья (F7){/}
 UI_20150317_000733	{@st59}Макрос (F8) {/}
 UI_20150317_000734	{@st59}Соратник (F9) {/}
@@ -645,16 +645,16 @@ UI_20150317_000736	{@st59}Системное меню (Esc){/}
 UI_20150317_000737	{@st59}Некрономикон{/}
 UI_20150317_000738	Помощь(F1)
 UI_20150317_000739	Оглавление
-UI_20150317_000740	View Details
-UI_20150317_000741	{@st43}Game Settings{/}
-UI_20150317_000742	{@st43}Game{/}
-UI_20150317_000747	{@st43}Resolution{/}
-UI_20150317_000748	{@st43}Graphics{/}
-UI_20150317_000751	{@st43}Sound{/}
-UI_20150317_000755	{@st43}{b}Select Language{/}
-UI_20150317_000756	{@st59}Close Settings{/}
+UI_20150317_000740	Посмотреть детали
+UI_20150317_000741	{@st43}Настройки игры{/}
+UI_20150317_000742	{@st43}Игра{/}
+UI_20150317_000747	{@st43}Разрешение{/}
+UI_20150317_000748	{@st43}Графика{/}
+UI_20150317_000751	{@st43}Звук{/}
+UI_20150317_000755	{@st43}{b}Выберите язык{/}
+UI_20150317_000756	{@st59}Закрыть настройки{/}
 UI_20150317_000758	{@st41b}View{/}
-UI_20150317_000759	{@st59}Credits{/}
+UI_20150317_000759	{@st59}Титры{/}
 UI_20150317_000760	Target buff window
 UI_20150317_000761	{@st46}IMC's picture
 UI_20150317_000762	{@st46}%s's picture
@@ -821,7 +821,7 @@ UI_20150317_000946	{@St59}Настройки{/}
 UI_20150317_000947	{@St59}Quit{/}
 UI_20150317_000948	{@st43}Настройки хижины{/}
 UI_20150317_000949	{@st59}Закрыть настройки хижины{/}
-UI_20150317_000951	{@st59}Введите название команды {/}
+UI_20150317_000951	{@st59}Введите фамилию {/}
 UI_20150317_000953	Provisional Delete
 UI_20150317_000954	{@St59}Close Decorate Lodge{/}
 UI_20150317_000955	{@St43}Barrack Decorating{/}
@@ -845,16 +845,16 @@ UI_20150317_000972	{@St43b}Выберите пол{/}
 UI_20150317_000973	{@St59}Женский{/}
 UI_20150317_000974	{@St59}Мужской{/}
 UI_20150317_000975	{@st43b}Выберите причёску{/}
-UI_20150317_000976	{@st59}Hairstyle1{/}
-UI_20150317_000977	{@st59}Hairstyle2{/}
-UI_20150317_000978	{@St59}Hairstyle3{/}
-UI_20150317_000979	{@st59}Hairstyle4{/}
-UI_20150317_000980	{@st59}Hairstyle5{/}
-UI_20150317_000981	{@st59}Hairstyle6{/}
-UI_20150317_000982	{@st59}Hairstyle7{/}
-UI_20150317_000983	{@st59}Hairstyle8{/}
-UI_20150317_000984	{@st59}Hairstyle9{/}
-UI_20150317_000985	{@st59}Hairstyle10{/}
+UI_20150317_000976	{@st59}Причёска 1{/}
+UI_20150317_000977	{@st59}Причёска 2{/}
+UI_20150317_000978	{@St59}Причёска 3{/}
+UI_20150317_000979	{@st59}Причёска 4{/}
+UI_20150317_000980	{@st59}Причёска 5{/}
+UI_20150317_000981	{@st59}Причёска 6{/}
+UI_20150317_000982	{@st59}Причёска 7{/}
+UI_20150317_000983	{@st59}Причёска 8{/}
+UI_20150317_000984	{@st59}Причёска 9{/}
+UI_20150317_000985	{@st59}Причёска 10{/}
 UI_20150317_000986	{@St43b}Выбор класса{/}
 UI_20150317_000987	{@st59}Мечник{/}
 UI_20150317_000988	{@st59}Колдун{/}
@@ -868,8 +868,8 @@ UI_20150317_000995	{@St41b}Закрыть игру{/}
 UI_20150317_000996	{@St59}Покинуть Tree of Savior{/}
 UI_20150317_000997	{@st41b}Выбрать канал{/}
 UI_20150317_000999	{@St59}Начать игру выбранным персонажем{/}
-UI_20150317_001000	{@St43}{s26}Название команды{/}
-UI_20150317_001001	{@st59}Название команды{/}
+UI_20150317_001000	{@St43}{s26}Фамилия{/}
+UI_20150317_001001	{@st59}Фамилия{/}
 UI_20150317_001004	{@St41}Companion{/}
 UI_20150317_001005	Chat Drag
 UI_20150317_001006	{@St44}New Dialog Name{/}
@@ -877,7 +877,7 @@ UI_20150317_001007	{@St42}Change{/}
 UI_20150317_001008	{@St44}New Window Name{/}
 UI_20150317_001009	{@St43}{s40}{gr gradation4}Character Creation{/}
 UI_20150317_001010	{@St59}Create a character{/}
-UI_20150317_001011	{@St59}Cancel character creation{/}
+UI_20150317_001011	{@St59}Отменить character creation{/}
 UI_20150317_001012	{@St59}Close{/}
 UI_20150317_001013	{@St59}Create the team name{/}
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!
@@ -971,7 +971,7 @@ UI_20150317_001102	{S14} Pelvic Size
 UI_20150317_001103	Use Pre-set
 UI_20150317_001104	Randomize
 UI_20150317_001105	Create New Character
-UI_20150317_001106	Cancel Character Creation
+UI_20150317_001106	Отменить Character Creation
 UI_20150317_001107	{@St43}{s40}{gr gradation4}Game Start{/}
 UI_20150317_001108	{@St43}{s40}{gr gradation4}End Preview{/}
 UI_20150317_001109	{@St43}{s40}{gr gradation4}Return to the Zone{/}
@@ -1011,7 +1011,7 @@ UI_20150317_001143	Shop Sell Value : %s silver
 UI_20150317_001144	How much
 UI_20150317_001145	{@St42b}Full Exploration Rate of Siauliai{/}
 UI_20150317_001146	{@St42b}West Forest Area Explored{/}
-UI_20150317_001147	{@St18}Item{/}
+UI_20150317_001147	{@St18}Предметы{/}
 UI_20150317_001148	{@St18}My Ranking{/}
 UI_20150317_001149	Diamond
 UI_20150317_001150	Stamina +9.000
@@ -1109,13 +1109,13 @@ UI_20150317_001258	{#FFFF33}%s{/} wants to become a friend{/}
 UI_20150317_001259	{@St41b}Accept
 UI_20150317_001261	{@St53b}Loading your friends list.
 UI_20150317_001262	Уровень %s{/}
-UI_20150317_001263	{@st41} Cancel
+UI_20150317_001263	{@st41} Отменить
 UI_20150317_001264	Please add the buff to sell.
 UI_20150317_001265	Price : %s{/}
 UI_20150317_001266	Amount Left
 UI_20150317_001267	{@St41}Purchase
 UI_20150317_001268	Amount Left : %s {/}
-UI_20150317_001269	{@St41}Item{/}
+UI_20150317_001269	{@St41}Предметы{/}
 UI_20150317_001270	{@St41b} Memo
 UI_20150317_001271	{@St41b}Craft
 UI_20150317_001273	{@Sti5}Price : %s{/}
@@ -1134,7 +1134,7 @@ UI_20150317_001285	{@St41}Difficulty : %s
 UI_20150317_001286	{@St42}Remaining Time : %s
 UI_20150317_001287	{@St53}Item Crafting
 UI_20150323_001288	{@st59}Place your item here{/}
-UI_20150323_001289	{@st42}Cancel
+UI_20150323_001289	{@st42}Отменить
 UI_20150323_001290	{@st42}Confirm
 UI_20150323_001291	{@st43}Briquetting{/}
 UI_20150323_001292	Current Potential
@@ -1177,7 +1177,7 @@ UI_20150323_001353	{@st43}Buy-in Shop
 UI_20150323_001354	Shop Name
 UI_20150323_001355	{@st41b}Open Shop
 UI_20150323_001356	{@st59}Start Buy-in Shop{/}
-UI_20150323_001357	{@st59}Cancel{/}
+UI_20150323_001357	{@st59}Отменить{/}
 UI_20150323_001358	{@st59}Close Buy-in Shop{/}
 UI_20150323_001359	Request Buy-in
 UI_20150323_001366	{@st41}Alchemy Materials
@@ -1235,7 +1235,7 @@ UI_20150401_001453	Title %s
 UI_20150401_001454	Reward %s
 UI_20150406_001456	{@st43}Base Camp
 UI_20150406_001457	{@st42}Construct
-UI_20150406_001458	{@st42}Cancel
+UI_20150406_001458	{@st42}Отменить
 UI_20150406_001460	{@st41b}Base Camp
 UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Place a card on the deck to start summoning{/}
 UI_20150406_001468	{@st41b}Offering Box Name
@@ -1249,7 +1249,7 @@ UI_20150406_001475	{@st41b}Sell
 UI_20150406_001476	{@st59}Sell the item(s) you've added.{/}
 UI_20150406_001477	{@st59}Close Personal Storage{/}
 UI_20150406_001479	{@st41b}Quantity
-UI_20150414_001483	{@st59b} Item {/}
+UI_20150414_001483	{@st59b} Предмет {/}
 UI_20150414_001484	{@st59b} Monster {/}
 UI_20150414_001485	{@st59b} Move Map {/}
 UI_20150414_001486	{@st59b} Battle Command {/}
@@ -1269,16 +1269,16 @@ UI_20150428_001502	When you report a bug, your gameplay up to that point will be
 UI_20150428_001503	{@st41b}Bug description :{/}
 UI_20150428_001504	{@st41b}Entering a description is not mandatory, but it will help us a lot in analyzing the bug.
 UI_20150428_001505	{@st41b}Send
-UI_20150428_001506	{@st42}{s14}{#ffff00}Target Lock{/}
-UI_20150428_001507	{@st59}Lock your target regardless of distance or direction
-UI_20150428_001508	Party found!
+UI_20150428_001506	{@st42}{s14}{#ffff00}Курс на цель{/}
+UI_20150428_001507	{@st59}Держать курс на цель в независимости от расстояния и направления
+UI_20150428_001508	Группа найдена!
 UI_20150428_001509	Joystick Rest Quickslot
-UI_20150428_001510	{@st41b}Rest Mode
-UI_20150428_001511	Joypad Tutorial
-UI_20150428_001513	Keyboard Tutorial
-UI_20150428_001514	{@st44}Logout{/}
-UI_20150428_001518	{@st42}{s14}{#ffff00}UI Mode{/}
-UI_20150428_001519	{@st59}Use keyboard or joypad to control UI
+UI_20150428_001510	{@st41b}Режим отдыха
+UI_20150428_001511	Обучение джойстику
+UI_20150428_001513	Обучение клавиатуре
+UI_20150428_001514	{@st44}Выйти{/}
+UI_20150428_001518	{@st42}{s14}{#ffff00}Режим UI{/}
+UI_20150428_001519	{@st59}Используйте клавиатуру или джойстик для управления интерфейсом
 UI_20150428_001523	Questing
 UI_20150428_001524	Hunting
 UI_20150428_001525	Events
@@ -1286,11 +1286,11 @@ UI_20150428_001529	{@st41b}Leave Party
 UI_20150428_001531	{s18}{ol}{gr gradation1}Helper Rules{/}
 UI_20150428_001532	{@st59}Proceed crafting{/}
 UI_20150428_001535	{@st41_yellow}Helper Skill
-UI_20150428_001537	{@st43}UI Mode{/}
-UI_20150428_001542	{@st59}Joypad Info{/}
-UI_20150428_001544	{@st59}Keyboard Info{/}
+UI_20150428_001537	{@st43}Режим интерфейса{/}
+UI_20150428_001542	{@st59}Информация о джойстике{/}
+UI_20150428_001544	{@st59}Информация о клавиатуре{/}
 UI_20150428_001545	{@st43}Настройки графики{/}
-UI_20150428_001546	{@st43}Performance{/}
+UI_20150428_001546	{@st43}Производительность{/}
 UI_20150428_001550	Game FAQ
 UI_20150428_001551	Players : (%s/%s)
 UI_20150428_001552	At least Lv. 100 : (%s/%s)
@@ -1304,11 +1304,11 @@ UI_20150714_001560	Adventure Index:{#ffff00} %s{/} ({#ffff00}ranked #%s{/})
 UI_20150714_001561	{@st66b}Like!
 UI_20150714_001563	{@st41b}Remove Refreshment Table
 UI_20150714_001565	{@st42}Stat
-UI_20150714_001567	{@st59b}Equipment {nl}{@st59s} - Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: One-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes. {nl} - Accessories: 1 Necklace and 2 Bracelets. {nl} {/}
-UI_20150714_001568	{@st43}Open %s Shop {/}
-UI_20150714_001569	{@st41b}Roasting{/}
-UI_20150714_001570	{@st66}Select All
-UI_20150714_001571	{@st43}Craft Arrow{/}
+UI_20150714_001567	{@st59b}Экипировка {nl}{@st59s} - Причёска и костюм позволяют сменить внешний вид персонажа. {nl} - Оружие: Одноручное или двуручное {nl} (Дополнительное оружие или щит могут быть экипировны вместе с одноручным) {nl} - Броня: Верх, Штаны, Перчатки, Ботинки. {nl} - Аксессуары: 1 ожерелье и 2 браслета. {nl} {/}
+UI_20150714_001568	{@st43}Открыть %s магазин {/}
+UI_20150714_001569	{@st41b}Жарка{/}
+UI_20150714_001570	{@st66}Выбрать всё
+UI_20150714_001571	{@st43}Сделать стрелу{/}
 UI_20150714_001572	{@st59}Close UI{/}
 UI_20150714_001573	{@st66b}Check{/}
 UI_20150714_001574	{@st66b}Leave Helper(Requires %s iCoin){/}
@@ -1317,7 +1317,7 @@ UI_20150714_001576	{ds}Рекомендованный уровень : %s
 UI_20150714_001577	Explored : 50.0%
 UI_20150714_001578	{@st45tw}[%s% explored]{/}
 UI_20150714_001579	>>Show More Info...
-UI_20150714_001580	%s (Rank %s)
+UI_20150714_001580	%s (Ранг %s)
 UI_20150714_001581	Job Name
 UI_20150714_001582	{@st41b}Invite
 UI_20150714_001583	{@st41}Если хотите использовать контроллер или мышь, то можете переключить соответствующую настройку в системном меню.{nl}
@@ -1355,31 +1355,31 @@ UI_20150714_001623	{@st59}Increase skills{/}
 UI_20150714_001624	{@st59}Close Skills & Attributes{/}
 UI_20150714_001625	{@st43}Skills & Attributes{/}
 UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
-UI_20150714_001627	Лаек получено: %s {memo Likes…}
-UI_20150714_001629	{@st66b}Show Character Name{/}
-UI_20150714_001630	{@st66b}Show Team Name only{/}
-UI_20150714_001631	{@st66b}Show Other Players' Names{/}
-UI_20150714_001632	{@st66b}Auto{/}
-UI_20150714_001633	{@st66b}Joypad{/}
-UI_20150714_001634	{@st66b}Keyboard{/}
-UI_20150714_001635	{@st66b}Mouse
-UI_20150714_001636	{@st66b}Full Screen{/}
-UI_20150714_001637	{@st66b}Windowed Mode{/}
-UI_20150714_001638	{@st66b}Sound Effects Volume (%s){/}
-UI_20150714_001639	{@st66b}BGM Volume (%s){/}
-UI_20150714_001640	{@st66b}Volume (%s){/}
-UI_20150714_001641	{@st66b}Low Mode{/}
-UI_20150714_001642	{@st66b}Auto Setup{/}
-UI_20150714_001643	{@st66b}Don't Use{/}
-UI_20150714_001644	{@st66b}Apply Bloom{/}
-UI_20150714_001645	{@st66b}Apply Vignette{/}
-UI_20150714_001646	{@st66b}Apply FXAA{/}
-UI_20150714_001647	{@st66b}Apply Glow{/}
-UI_20150714_001648	{@st66b}Apply Depth{/}
-UI_20150714_001649	{@st66b}Apply Soft Particle{/}
-UI_20150714_001650	{@st66b}Apply High Texture {/}
-UI_20150714_001651	{@st66b}Vertical Sync On{/}
-UI_20150714_001652	{@st66b}Vertical Sync Off{/}
+UI_20150714_001627	Одобрили %s раз {memo Likes…}
+UI_20150714_001629	{@st66b}Показывать имя{/}
+UI_20150714_001630	{@st66b}Только фамилия{/}
+UI_20150714_001631	{@st66b}Имена других игроков{/}
+UI_20150714_001632	{@st66b}Авто{/}
+UI_20150714_001633	{@st66b}Джойстик{/}
+UI_20150714_001634	{@st66b}Клавиатура{/}
+UI_20150714_001635	{@st66b}Мышь
+UI_20150714_001636	{@st66b}Полный экран{/}
+UI_20150714_001637	{@st66b}Экранный режим{/}
+UI_20150714_001638	{@st66b}Звуковые эффекты (%s){/}
+UI_20150714_001639	{@st66b}Музыка (%s){/}
+UI_20150714_001640	{@st66b}Громкость (%s){/}
+UI_20150714_001641	{@st66b}Слабый ПК{/}
+UI_20150714_001642	{@st66b}Автомат{/}
+UI_20150714_001643	{@st66b}Не использовать{/}
+UI_20150714_001644	{@st66b}Bloom{/}
+UI_20150714_001645	{@st66b}Vignette{/}
+UI_20150714_001646	{@st66b}FXAA{/}
+UI_20150714_001647	{@st66b}Отблески{/}
+UI_20150714_001648	{@st66b}Глубина{/}
+UI_20150714_001649	{@st66b}Soft Particle{/}
+UI_20150714_001650	{@st66b}Хорошие текстуры {/}
+UI_20150714_001651	{@st66b}Включить VSync{/}
+UI_20150714_001652	{@st66b}Выключить VSync{/}
 UI_20150714_001653	{@st66b} %s silver is consumed when storing and taking items from storage.{/}
 UI_20150714_001654	%s like me
 UI_20150714_001655	{@st41}Spectate
@@ -1412,23 +1412,23 @@ UI_20150714_001683	{@st42} obtained %s by %s
 UI_20150714_001684	{@st42} enhanced %s by %s
 UI_20150714_001685	Memo :%s
 UI_20150714_001686	{@st59}Add the material to this item slot.{/}
-UI_20150714_001687	{@st66b}Price : %s{/}
+UI_20150714_001687	{@st66b}Цена : %s{/}
 UI_20150714_001688	Приветствие
 UI_20150714_001689	Магазин
 UI_20150714_001690	×%s
 UI_20150714_001691	{@41b}Надо
-UI_20150714_001693	{@st41}Refresh
-UI_20150717_001695	{@st41b}{s56}This game is {#0066FF}
-UI_20150717_001696	Rated T.
-UI_20150717_001697	{s40} {nl}Long hours playing the game can negatively affect your health.{/}
+UI_20150714_001693	{@st41}Обновить
+UI_20150717_001695	{@st41b}{s56}У этой игры {#0066FF}
+UI_20150717_001696	Рейтинг 12+.
+UI_20150717_001697	{s40} {nl}Если играть слишком много, то может испортиться здоровье.{/}
 UI_20150717_001698	{@st66b}Enter
 UI_20150717_001699	{@st42}My Summon Info
-UI_20150717_001700	Your movement slows down when you do not have enough{@st59}STA{/}
-UI_20150717_001701	{@st59}Sorts your inventory{/}
-UI_20150717_001703	{@st59}Close Joypad Control Info.{/}
-UI_20150717_001704	{@st59}Close Keyboard Control info.{/}
-UI_20150717_001705	Mouse Tutorial
-UI_20150717_001706	{@st59}Close Mouse Control Info.{/}
+UI_20150717_001700	Вы двигаетесь медленней когда у вас не хватает {@st59}STA{/}
+UI_20150717_001701	{@st59}Сортирует инвентарь{/}
+UI_20150717_001703	{@st59}Закрыть информацию об управлении джойстиком.{/}
+UI_20150717_001704	{@st59}Закрыть информацию об управлении клавиатурой.{/}
+UI_20150717_001705	Обучение мыши
+UI_20150717_001706	{@st59}Закрыть информацию об управлении мышью.{/}
 UI_20150717_001707	Attack : %s
 UI_20150717_001708	Defense : %s
 UI_20150717_001709	STR : %s
@@ -1444,9 +1444,9 @@ UI_20150717_001720	This can only be used by party leaders.
 UI_20150717_001721	You must use the Party Member Recommendation function.
 UI_20150717_001722	{@st66b}Quest Class Name{/}
 UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter a quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}
-UI_20150717_001724	{@st59}Mouse Info{/}
-UI_20150717_001725	{@st66b}Sort
-UI_20150717_001726	{@st59}Sorts your items.{/}
+UI_20150717_001724	{@st59}Информация о мыши{/}
+UI_20150717_001725	{@st66b}Отсортировать
+UI_20150717_001726	{@st59}Сортирует вещи.{/}
 UI_20150717_001727	{@st59}Equip weapons to this slot{nl}Press Alt+Z to swap weapons{/}
 UI_20150717_001728	Spectate another character
 UI_20150717_001729	{@st41}Battle Field
@@ -1454,9 +1454,9 @@ UI_20150717_001730	Results
 UI_20150717_001731	{@st41}Move Immediately
 UI_20150717_001732	{@st41b}            A Team Name represents all your characters.{nl}                 It is a common name used within the game.{nl}                  Your Team Name can be changed later on.{/}
 UI_20150729_001733	{@st42}Show only attributes that can be learned{/}
-UI_20150729_001734	Leg Count
-UI_20150729_001735	Height
-UI_20150729_001736	Weight
+UI_20150729_001734	Число ног
+UI_20150729_001735	Рост
+UI_20150729_001736	Вес
 UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
 UI_20150729_001739	{@st59}Close Arrow Crafting{/}
@@ -1467,7 +1467,7 @@ UI_20150729_001744	{@st42}Search for Party Members{/}
 UI_20150729_001745	When a player meets the criteria you set up, a [Party Match!] message will be shown on your screen.
 UI_20150729_001746	{@st41b}Recommended Player List{/}
 UI_20150729_001747	{@st41}Attribute Information
-UI_20150729_001748	{@st59}Cancel Enhancement{/}
+UI_20150729_001748	{@st59}Отменить Enhancement{/}
 UI_20150729_001749	{@st59b}Gem/Card Enhancement{nl}{@st59s} - Select a gem or card from your inventory to enhance it.{nl} - All items with exception of quest items can be used as materials for enhancing gems.{nl} (Most effective when using a gem as material){nl} - Cards can only be enhanced by using other cards.{/}
 UI_20150729_001753	{@st43}Team Battle League
 UI_20150729_001754	{@st59}Close Team Battle League
@@ -1481,7 +1481,7 @@ UI_20150729_001761	{@st59}Delete this Ticket{/}
 UI_20150729_001762	Score
 UI_20150729_001763	Join Team Battle League
 UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName Chat
-UI_20150803_001768	{@st66b}Joypad Vibration{/}
+UI_20150803_001768	{@st66b}Вибрация{/}
 UI_20150803_001769	A match has been found. Please wait until you can join the game.
 UI_20150804_001770	{memo had to be shortened to fit the UI}{@st43}{s18}Pick the character to receive the item(s).{/}
 UI_20150804_001771	Maximum Sockets : %s
@@ -1500,10 +1500,10 @@ UI_20150918_001785	{#000000}Entry Level{/}
 UI_20150918_001786	{#000000}Entry Count{/}
 UI_20150918_001787	{#000000}The number of entries will reset at %s.{/}
 UI_20150918_001788	{img silver 20 20} Price
-UI_20150918_001789	Nearby Party Info
+UI_20150918_001789	Группы неподалёку
 UI_20150918_001790	Required Fragments : %s 
 UI_20150918_001791	{@st66b}Empty
-UI_20150918_001792	{@st42}Show Nearby Parties{/}
+UI_20150918_001792	{@st42}Группы рядом{/}
 UI_20150918_001793	Friendship with {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
 UI_20150918_001794	Friendship
 UI_20150918_001795	{@st41b}Obtained material for crafting an item!
@@ -1540,7 +1540,7 @@ UI_20151016_001825	Notice
 UI_20151022_001826	{@st41}Server Queue
 UI_20151022_001827	{#000000}{s18}The server is currently full. Queueing for entry.
 UI_20151022_001828	{#000000}{s18}Current Position : %s
-UI_20151022_001829	{@st66b}Show Other Character's Effects
+UI_20151022_001829	{@st66b}Эффекты других игроков
 UI_20151023_001830	{@st41b}iCoin{/}
 UI_20151023_001831	{@st41}iCoin
 UI_20151023_001832	iCoin

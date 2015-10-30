@@ -1561,7 +1561,7 @@ ETC_20150317_001694	Success!!!
 ETC_20150317_001695	Failed!!!
 ETC_20150317_001696	There is no empty socket that matches this type.
 ETC_20150317_001697	Place the item you want to enhance.
-ETC_20150317_001699	Gem Enhancement
+ETC_20150317_001699	Улучшение самоцветов
 ETC_20150317_001700	You can no longer equip it. 
 ETC_20150317_001701	Your equipment has been damaged due to the death penalty.
 ETC_20150317_001702	Enhance
@@ -1644,8 +1644,8 @@ ETC_20150317_001783	Defense Rate
 ETC_20150317_001784	Evasion Rate
 ETC_20150317_001785	Fire Attack Rate
 ETC_20150317_001786	Skill Ability
-ETC_20150317_001787	Weight: {All} / {Max}
-ETC_20150317_001788	Weight ({Rate}%)
+ETC_20150317_001787	Вес: {All} / {Max}
+ETC_20150317_001788	Вес ({Rate}%)
 ETC_20150317_001789	Unsocketable
 ETC_20150317_001790	Tournament Champion
 ETC_20150317_001791	Tournament Second Winner
@@ -1729,7 +1729,7 @@ ETC_20150317_001873	Inheritance
 ETC_20150317_001874	Start
 ETC_20150317_001875	Join
 ETC_20150317_001876	Obtained item
-ETC_20150317_001877	Accessory
+ETC_20150317_001877	Аксессуары
 ETC_20150317_001878	Set
 ETC_20150317_001880	Active Skill
 ETC_20150317_001881	Passive Skill
@@ -1744,7 +1744,7 @@ ETC_20150317_001889	Temporary Event
 ETC_20150317_001890	Acquired
 ETC_20150317_001891	You already have it.
 ETC_20150317_001892	A Field Boss appeared!
-ETC_20150317_001893	Item
+ETC_20150317_001893	Предметы
 ETC_20150317_001894	Map
 ETC_20150317_001895	Achievement
 ETC_20150317_001896	Mike
@@ -1765,7 +1765,7 @@ ETC_20150317_001911	Attributes
 ETC_20150317_001912	{@st59} Нажмите для дополнительной информации {/}
 ETC_20150317_001913	The next skill level requires the same class advancement.
 ETC_20150317_001914	Use a Skill Point to increase its skill level.
-ETC_20150317_001915	Equipment
+ETC_20150317_001915	Экипировка
 ETC_20150317_001916	Disabled
 ETC_20150317_001917	Enabled
 ETC_20150317_001918	Individual
@@ -2125,9 +2125,9 @@ ETC_20150317_002393	Level or below
 ETC_20150317_002394	Rank
 ETC_20150317_002395	Rank or higher
 ETC_20150317_002396	Rank below
-ETC_20150317_002397	Male characters only
-ETC_20150317_002398	Female characters only
-ETC_20150317_002399	Item
+ETC_20150317_002397	Только мужским персонажам
+ETC_20150317_002398	Только женским персонажам
+ETC_20150317_002399	Предметы
 ETC_20150317_002400	Item needed
 ETC_20150317_002401	 required
 ETC_20150317_002402	Subquest Conditions{nl}
@@ -3703,7 +3703,7 @@ ETC_20150317_004153	{s18}{Auto_1}{Auto_2} Set Effect:
 ETC_20150317_004154	(Equipped)
 ETC_20150317_004155	(Unequipped)
 ETC_20150317_004156	Weapon
-ETC_20150317_004157	Equipment
+ETC_20150317_004157	Экипировка
 ETC_20150317_004158	] The [
 ETC_20150317_004159	Do you want to equip it to ]?
 ETC_20150317_004160	 Уровень
@@ -4876,8 +4876,8 @@ ETC_20150317_005550	Succeeded Commission Count
 ETC_20150317_005551	Field Event Completion
 ETC_20150317_005552	Dae-Gil Conversation
 ETC_20150317_005553	Сундуки
-ETC_20150317_005554	Item Crafting
-ETC_20150317_005555	Beauty Salon
+ETC_20150317_005554	Создание предметов
+ETC_20150317_005555	Салон красоты
 ETC_20150317_005556	Access Count
 ETC_20150317_005557	World Exploration Score
 ETC_20150317_005558	Participation CBT1
@@ -5198,7 +5198,7 @@ ETC_20150317_005903	            Attack enemies within your attack range.
 ETC_20150317_005912	Undiscovered areas are not displayed on the map.
 ETC_20150317_005913	Only discovered areas are displayed on the map.
 ETC_20150317_005916	Basic Info
-ETC_20150317_005917	Inventory
+ETC_20150317_005917	Инвентарь
 ETC_20150317_005925	{nl} {nl} Quest Progress Indicators{nl} {img minimap_1_MAIN 24 24}: Main Quest Available {nl} {img minimap_2_MAIN 24 24}: Main Quest In Progress {nl} {img minimap_3_MAIN 24 24}: Main Quest Completed {nl} {img minimap_1_SUB 24 24}: Subquest Available {nl} {img minimap_2_SUB 24 24}: Subquest In Progress {nl} {img minimap_3_SUB 24 24}: Subquest Completed{nl}{nl}
 ETC_20150317_005931	Restart
 ETC_20150317_005936	The skill level will increase after you click 'Apply'.
@@ -5208,7 +5208,7 @@ ETC_20150317_005968	Monster Info
 ETC_20150317_005981	{memo $}Tree Root Crystals randomly appear in the fields.
 ETC_20150317_005984	Overkill will be activated if you kill the monster with a strong finish.
 ETC_20150317_005987	There are many Tree Root Crystals in every field.
-ETC_20150317_005997	Item Crafting
+ETC_20150317_005997	Создание предметов
 ETC_20150317_006008	You can buy and sell items through the Merchant NPCs.
 ETC_20150317_006015	Status Points
 ETC_20150317_006022	Convenience
@@ -5245,7 +5245,7 @@ ETC_20150317_006126	Installing
 ETC_20150317_006127	and
 ETC_20150317_006128	You can attach a Magic Amulet to an item.
 ETC_20150317_006132	Magic Amulets can be obtained from monsters.
-ETC_20150317_006135	Build Bonfire
+ETC_20150317_006135	Разжечь костёр
 ETC_20150317_006142	Scattered Supplies
 ETC_20150317_006144	The first supplies boxes are scattered in the Eastern Woods.
 ETC_20150317_006146	Companion
@@ -5254,9 +5254,9 @@ ETC_20150317_006149	Companions can be adopted from the Companion Merchants in to
 ETC_20150317_006167	Dungeons
 ETC_20150317_006168	Dungeons are very dangerous, but there are special rewards waiting for you.
 ETC_20150317_006171	Resurrect at the nearest area
-ETC_20150317_006174	Equipment
-ETC_20150317_006175	Sub-Weapon
-ETC_20150317_006176	Consumable
+ETC_20150317_006174	Экипировка
+ETC_20150317_006175	Дополнительное оружие
+ETC_20150317_006176	Расходники
 ETC_20150317_006177	Companion Equipment
 ETC_20150317_006178	N/A
 ETC_20150317_006179	Spray - Black
@@ -8381,7 +8381,7 @@ ETC_20150323_010012	Storage use fee
 ETC_20150323_010013	Not linked node's height position control value when ride on the companion 
 ETC_20150323_010014	Recipe - Antidote
 ETC_20150323_010015	Elementalist Advancement
-ETC_20150323_010016	Card Synthesis
+ETC_20150323_010016	Синтез карт
 ETC_20150323_010017	Enter your personal greeting
 ETC_20150323_010019	Начать игру
 ETC_20150323_010020	User Buy-in Shop
@@ -9112,7 +9112,7 @@ ETC_20150414_011103	Recipe - Silver Bracelet
 ETC_20150414_011104	Recipe - Superior Pearl Bracelet
 ETC_20150414_011105	Recipe - Rune Bracelet
 ETC_20150414_011106	Falconer Advancement
-ETC_20150414_011107	Dispeller Crafting attribute required
+ETC_20150414_011107	{memo TODO "Разочаровыватель"? :З}Dispeller Crafting attribute required
 ETC_20150414_011108	Craft Arrow
 ETC_20150414_011109	Arrow Crafting attribute required
 ETC_20150414_011110	Base camp does not exist.
@@ -12092,13 +12092,13 @@ ETC_20150918_014603	Do you accept the Friendly Duel request from {Name}?
 ETC_20150918_014604	Start Friendly Duel!
 ETC_20150918_014605	The field boss in this region has been defeated.
 ETC_20150918_014606	You cannot participate PvP it the current map due to an error.
-ETC_20150918_014607	{Name} requested to join the party.
-ETC_20150918_014608	Do you want to join this party?
-ETC_20150918_014609	Round Robin
-ETC_20150918_014610	Random
-ETC_20150918_014611	Individual
-ETC_20150918_014612	Shared
-ETC_20150918_014613	Unshared
+ETC_20150918_014607	{Name} хочет присоединиться.
+ETC_20150918_014608	Хотите ли присоединиться к этой группе?
+ETC_20150918_014609	По очереди
+ETC_20150918_014610	Случайно
+ETC_20150918_014611	Личные
+ETC_20150918_014612	Общий
+ETC_20150918_014613	Не делятся
 ETC_20150918_014614	You have exceeded the number of times that you can participate in an instanced dungeon for today.
 ETC_20150918_014615	It is lower than the Instanced Dungeon limit level
 ETC_20150918_014616	Defeat Matsums that are rushing in!
@@ -13166,10 +13166,10 @@ ETC_20151016_015815	Cannoneer Advancement
 ETC_20151016_015816	Musketeer Advancement
 ETC_20151016_015817	Plague Doctor Advancement
 ETC_20151016_015818	Kabbalist Advancement
-ETC_20151016_015819	By Grade
-ETC_20151016_015820	By Weight
-ETC_20151016_015821	By Price
-ETC_20151016_015822	By Name
+ETC_20151016_015819	По качеству
+ETC_20151016_015820	По весу
+ETC_20151016_015821	По цене
+ETC_20151016_015822	По названию
 ETC_20151016_015823	Hidden Pillar
 ETC_20151016_015824	Kedora Merchants' Benefits!
 ETC_20151016_015825	Already detected
