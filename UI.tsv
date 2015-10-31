@@ -662,16 +662,16 @@ UI_20150317_000763	{@st46}Like
 UI_20150317_000764	{@st46}Report
 UI_20150317_000765	{@st46}Use preservatives
 UI_20150317_000766	{@st46}Remove Picture
-UI_20150317_000767	Snow Hallucination
-UI_20150317_000768	Bouquet
-UI_20150317_000769	{@st41} Gifts
+UI_20150317_000767	Показать галлюцинацию
+UI_20150317_000768	Букет
+UI_20150317_000769	{@st41} Подарки
 UI_20150317_000770	Please enter a quantity
 UI_20150317_000771	{@st53b}%s Wins %s Loss
 UI_20150317_000772	{@st42}Today's Schedule
 UI_20150317_000773	{@st53}To Start :
-UI_20150317_000774	{@st53b}Gifts received : ×%s
-UI_20150317_000775	{@st43b}Send gift to %s{/}
-UI_20150317_000776	{@st55_a}Next game
+UI_20150317_000774	{@st53b}Подарков получено : ×%s
+UI_20150317_000775	{@st43b}Послать подарок %s{/}
+UI_20150317_000776	{@st55_a}Следующая игра
 UI_20150317_000777	{@st53}- Click on the name to spectate{nl}- Right-click to send a gift
 UI_20150317_000778	My character as camera
 UI_20150317_000779	{@st55_a}Congratulations!
