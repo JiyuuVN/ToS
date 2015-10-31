@@ -1761,10 +1761,10 @@ ETC_20150317_001907	EXP
 ETC_20150317_001908	(Attack Resistance)
 ETC_20150317_001909	Requires a record in the Adventure Journal. Press the A key to update whilst sitting.
 ETC_20150317_001910	You can now use the [{Auto_1}] title.
-ETC_20150317_001911	Attributes
+ETC_20150317_001911	Способности
 ETC_20150317_001912	{@st59} Нажмите для дополнительной информации {/}
 ETC_20150317_001913	The next skill level requires the same class advancement.
-ETC_20150317_001914	Use a Skill Point to increase its skill level.
+ETC_20150317_001914	Используйте очко умений чтобы повысить уровень.
 ETC_20150317_001915	Экипировка
 ETC_20150317_001916	Disabled
 ETC_20150317_001917	Enabled
@@ -1835,7 +1835,7 @@ ETC_20150317_001983	Deselected
 ETC_20150317_001984	Do you want to use your points to increase the {Auto_1} ability?
 ETC_20150317_001985	Do you want to use your skill points to increase this ability?
 ETC_20150317_001986	Do you want to use your skill points to learn a new skill?
-ETC_20150317_001987	Available Skill Points
+ETC_20150317_001987	Очки умений
 ETC_20150317_001988	Category
 ETC_20150317_001989	Passive
 ETC_20150317_001990	Enhance Skill
@@ -12083,8 +12083,8 @@ ETC_20150918_014594	There isn't any usable equipment
 ETC_20150918_014595	Some field monsters were involved in battles so you couldn't summon them
 ETC_20150918_014596	Stealing succeeded!
 ETC_20150918_014597	Crafting items.
-ETC_20150918_014598	Дополнительная физическая атака
-ETC_20150918_014599	Дополнительная магическая атака
+ETC_20150918_014598	Дополнительная физ. атака
+ETC_20150918_014599	Дополнительная маг. атака
 ETC_20150918_014600	Are you sure you want to block
 ETC_20150918_014601	You cannot 'Like' yet.
 ETC_20150918_014602	Friendly Duel Request
